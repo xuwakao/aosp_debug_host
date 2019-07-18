@@ -1,0 +1,4 @@
+/.gradle
+/.idea
+aosp_host.iml
+local.properties
