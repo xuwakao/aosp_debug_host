@@ -1,0 +1,8 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/wifi/java/android/net/wifi/IWifiScanner.java : \
+  frameworks/base/wifi/java/android/net/wifi/IWifiScanner.aidl \
+  frameworks/base/core/java/android/os/Messenger.aidl \
+  frameworks/base/core/java/android/os/Bundle.aidl
+
+frameworks/base/wifi/java/android/net/wifi/IWifiScanner.aidl :
+frameworks/base/core/java/android/os/Messenger.aidl :
+frameworks/base/core/java/android/os/Bundle.aidl :

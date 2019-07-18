@@ -1,0 +1,6 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/core/java/com/android/internal/os/IShellCallback.java : \
+  frameworks/base/core/java/com/android/internal/os/IShellCallback.aidl \
+  frameworks/base/core/java/android/os/ParcelFileDescriptor.aidl
+
+frameworks/base/core/java/com/android/internal/os/IShellCallback.aidl :
+frameworks/base/core/java/android/os/ParcelFileDescriptor.aidl :

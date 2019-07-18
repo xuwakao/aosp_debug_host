@@ -1,0 +1,6 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/keystore/java/android/security/IKeyChainService.java : \
+  frameworks/base/keystore/java/android/security/IKeyChainService.aidl \
+  frameworks/base/core/java/android/content/pm/StringParceledListSlice.aidl
+
+frameworks/base/keystore/java/android/security/IKeyChainService.aidl :
+frameworks/base/core/java/android/content/pm/StringParceledListSlice.aidl :

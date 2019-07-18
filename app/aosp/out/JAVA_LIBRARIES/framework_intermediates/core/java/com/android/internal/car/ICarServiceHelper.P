@@ -1,0 +1,4 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/core/java/com/android/internal/car/ICarServiceHelper.java : \
+  frameworks/base/core/java/com/android/internal/car/ICarServiceHelper.aidl
+
+frameworks/base/core/java/com/android/internal/car/ICarServiceHelper.aidl :

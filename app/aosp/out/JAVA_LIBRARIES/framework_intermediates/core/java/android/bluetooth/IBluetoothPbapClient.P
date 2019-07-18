@@ -1,0 +1,6 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/core/java/android/bluetooth/IBluetoothPbapClient.java : \
+  frameworks/base/core/java/android/bluetooth/IBluetoothPbapClient.aidl \
+  frameworks/base/core/java/android/bluetooth/BluetoothDevice.aidl
+
+frameworks/base/core/java/android/bluetooth/IBluetoothPbapClient.aidl :
+frameworks/base/core/java/android/bluetooth/BluetoothDevice.aidl :

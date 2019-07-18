@@ -1,0 +1,6 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/core/java/android/print/IPrintJobStateChangeListener.java : \
+  frameworks/base/core/java/android/print/IPrintJobStateChangeListener.aidl \
+  frameworks/base/core/java/android/print/PrintJobId.aidl
+
+frameworks/base/core/java/android/print/IPrintJobStateChangeListener.aidl :
+frameworks/base/core/java/android/print/PrintJobId.aidl :

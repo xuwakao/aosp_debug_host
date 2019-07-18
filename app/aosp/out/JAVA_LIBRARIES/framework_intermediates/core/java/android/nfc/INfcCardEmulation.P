@@ -1,0 +1,12 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/core/java/android/nfc/INfcCardEmulation.java : \
+  frameworks/base/core/java/android/nfc/INfcCardEmulation.aidl \
+  frameworks/base/core/java/android/content/ComponentName.aidl \
+  frameworks/base/core/java/android/nfc/cardemulation/AidGroup.aidl \
+  frameworks/base/core/java/android/nfc/cardemulation/ApduServiceInfo.aidl \
+  frameworks/base/core/java/android/os/RemoteCallback.aidl
+
+frameworks/base/core/java/android/nfc/INfcCardEmulation.aidl :
+frameworks/base/core/java/android/content/ComponentName.aidl :
+frameworks/base/core/java/android/nfc/cardemulation/AidGroup.aidl :
+frameworks/base/core/java/android/nfc/cardemulation/ApduServiceInfo.aidl :
+frameworks/base/core/java/android/os/RemoteCallback.aidl :

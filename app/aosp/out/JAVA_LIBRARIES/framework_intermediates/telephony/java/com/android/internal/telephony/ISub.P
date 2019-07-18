@@ -1,0 +1,10 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/telephony/java/com/android/internal/telephony/ISub.java : \
+  frameworks/base/telephony/java/com/android/internal/telephony/ISub.aidl \
+  frameworks/base/core/java/android/app/PendingIntent.aidl \
+  frameworks/base/telephony/java/android/telephony/SubscriptionInfo.aidl \
+  frameworks/base/telephony/java/com/android/internal/telephony/ISubscriptionListener.aidl
+
+frameworks/base/telephony/java/com/android/internal/telephony/ISub.aidl :
+frameworks/base/core/java/android/app/PendingIntent.aidl :
+frameworks/base/telephony/java/android/telephony/SubscriptionInfo.aidl :
+frameworks/base/telephony/java/com/android/internal/telephony/ISubscriptionListener.aidl :

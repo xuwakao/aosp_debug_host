@@ -1,0 +1,10 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/core/java/com/android/internal/app/IAppOpsService.java : \
+  frameworks/base/core/java/com/android/internal/app/IAppOpsService.aidl \
+  frameworks/base/core/java/android/app/AppOpsManager.aidl \
+  frameworks/base/core/java/android/os/Bundle.aidl \
+  frameworks/base/core/java/com/android/internal/app/IAppOpsCallback.aidl
+
+frameworks/base/core/java/com/android/internal/app/IAppOpsService.aidl :
+frameworks/base/core/java/android/app/AppOpsManager.aidl :
+frameworks/base/core/java/android/os/Bundle.aidl :
+frameworks/base/core/java/com/android/internal/app/IAppOpsCallback.aidl :

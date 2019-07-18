@@ -1,0 +1,4 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/telephony/java/com/android/ims/ImsConfigListener.java : \
+  frameworks/base/telephony/java/com/android/ims/ImsConfigListener.aidl
+
+frameworks/base/telephony/java/com/android/ims/ImsConfigListener.aidl :

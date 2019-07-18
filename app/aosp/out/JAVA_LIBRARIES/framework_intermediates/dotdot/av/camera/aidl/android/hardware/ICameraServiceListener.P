@@ -1,0 +1,4 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/dotdot/av/camera/aidl/android/hardware/ICameraServiceListener.java : \
+  frameworks/base/../av/camera/aidl/android/hardware/ICameraServiceListener.aidl
+
+frameworks/base/../av/camera/aidl/android/hardware/ICameraServiceListener.aidl :

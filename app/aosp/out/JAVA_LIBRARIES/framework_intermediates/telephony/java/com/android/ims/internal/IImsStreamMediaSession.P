@@ -1,0 +1,4 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/telephony/java/com/android/ims/internal/IImsStreamMediaSession.java : \
+  frameworks/base/telephony/java/com/android/ims/internal/IImsStreamMediaSession.aidl
+
+frameworks/base/telephony/java/com/android/ims/internal/IImsStreamMediaSession.aidl :

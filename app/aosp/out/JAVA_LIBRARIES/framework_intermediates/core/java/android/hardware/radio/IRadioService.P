@@ -1,0 +1,10 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/core/java/android/hardware/radio/IRadioService.java : \
+  frameworks/base/core/java/android/hardware/radio/IRadioService.aidl \
+  frameworks/base/core/java/android/hardware/radio/ITuner.aidl \
+  frameworks/base/core/java/android/hardware/radio/ITunerCallback.aidl \
+  frameworks/base/core/java/android/hardware/radio/RadioManager.aidl
+
+frameworks/base/core/java/android/hardware/radio/IRadioService.aidl :
+frameworks/base/core/java/android/hardware/radio/ITuner.aidl :
+frameworks/base/core/java/android/hardware/radio/ITunerCallback.aidl :
+frameworks/base/core/java/android/hardware/radio/RadioManager.aidl :

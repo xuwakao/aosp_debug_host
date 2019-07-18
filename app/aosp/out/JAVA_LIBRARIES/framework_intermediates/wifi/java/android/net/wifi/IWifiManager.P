@@ -1,0 +1,34 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/wifi/java/android/net/wifi/IWifiManager.java : \
+  frameworks/base/wifi/java/android/net/wifi/IWifiManager.aidl \
+  frameworks/base/core/java/android/content/pm/ParceledListSlice.aidl \
+  frameworks/base/wifi/java/android/net/wifi/hotspot2/OsuProvider.aidl \
+  frameworks/base/wifi/java/android/net/wifi/hotspot2/PasspointConfiguration.aidl \
+  frameworks/base/wifi/java/android/net/wifi/WifiConfiguration.aidl \
+  frameworks/base/wifi/java/android/net/wifi/WifiInfo.aidl \
+  frameworks/base/wifi/java/android/net/wifi/ScanSettings.aidl \
+  frameworks/base/wifi/java/android/net/wifi/ScanResult.aidl \
+  frameworks/base/wifi/java/android/net/wifi/PasspointManagementObjectDefinition.aidl \
+  frameworks/base/wifi/java/android/net/wifi/WifiConnectionStatistics.aidl \
+  frameworks/base/wifi/java/android/net/wifi/WifiActivityEnergyInfo.aidl \
+  frameworks/base/core/java/android/net/Network.aidl \
+  frameworks/base/core/java/android/net/DhcpInfo.aidl \
+  frameworks/base/core/java/android/os/Messenger.aidl \
+  frameworks/base/core/java/android/os/ResultReceiver.aidl \
+  frameworks/base/core/java/android/os/WorkSource.aidl
+
+frameworks/base/wifi/java/android/net/wifi/IWifiManager.aidl :
+frameworks/base/core/java/android/content/pm/ParceledListSlice.aidl :
+frameworks/base/wifi/java/android/net/wifi/hotspot2/OsuProvider.aidl :
+frameworks/base/wifi/java/android/net/wifi/hotspot2/PasspointConfiguration.aidl :
+frameworks/base/wifi/java/android/net/wifi/WifiConfiguration.aidl :
+frameworks/base/wifi/java/android/net/wifi/WifiInfo.aidl :
+frameworks/base/wifi/java/android/net/wifi/ScanSettings.aidl :
+frameworks/base/wifi/java/android/net/wifi/ScanResult.aidl :
+frameworks/base/wifi/java/android/net/wifi/PasspointManagementObjectDefinition.aidl :
+frameworks/base/wifi/java/android/net/wifi/WifiConnectionStatistics.aidl :
+frameworks/base/wifi/java/android/net/wifi/WifiActivityEnergyInfo.aidl :
+frameworks/base/core/java/android/net/Network.aidl :
+frameworks/base/core/java/android/net/DhcpInfo.aidl :
+frameworks/base/core/java/android/os/Messenger.aidl :
+frameworks/base/core/java/android/os/ResultReceiver.aidl :
+frameworks/base/core/java/android/os/WorkSource.aidl :

@@ -1,0 +1,4 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/core/java/android/app/backup/ISelectBackupTransportCallback.java : \
+  frameworks/base/core/java/android/app/backup/ISelectBackupTransportCallback.aidl
+
+frameworks/base/core/java/android/app/backup/ISelectBackupTransportCallback.aidl :

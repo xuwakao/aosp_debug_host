@@ -1,0 +1,16 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/core/java/android/hardware/location/IContextHubService.java : \
+  frameworks/base/core/java/android/hardware/location/IContextHubService.aidl \
+  frameworks/base/core/java/android/hardware/location/ContextHubMessage.aidl \
+  frameworks/base/core/java/android/hardware/location/ContextHubInfo.aidl \
+  frameworks/base/core/java/android/hardware/location/NanoApp.aidl \
+  frameworks/base/core/java/android/hardware/location/NanoAppInstanceInfo.aidl \
+  frameworks/base/core/java/android/hardware/location/NanoAppFilter.aidl \
+  frameworks/base/core/java/android/hardware/location/IContextHubCallback.aidl
+
+frameworks/base/core/java/android/hardware/location/IContextHubService.aidl :
+frameworks/base/core/java/android/hardware/location/ContextHubMessage.aidl :
+frameworks/base/core/java/android/hardware/location/ContextHubInfo.aidl :
+frameworks/base/core/java/android/hardware/location/NanoApp.aidl :
+frameworks/base/core/java/android/hardware/location/NanoAppInstanceInfo.aidl :
+frameworks/base/core/java/android/hardware/location/NanoAppFilter.aidl :
+frameworks/base/core/java/android/hardware/location/IContextHubCallback.aidl :

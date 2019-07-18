@@ -1,0 +1,8 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/dotdot/av/camera/aidl/android/hardware/camera2/ICameraDeviceCallbacks.java : \
+  frameworks/base/../av/camera/aidl/android/hardware/camera2/ICameraDeviceCallbacks.aidl \
+  frameworks/av/camera/aidl/android/hardware/camera2/impl/CameraMetadataNative.aidl \
+  frameworks/av/camera/aidl/android/hardware/camera2/impl/CaptureResultExtras.aidl
+
+frameworks/base/../av/camera/aidl/android/hardware/camera2/ICameraDeviceCallbacks.aidl :
+frameworks/av/camera/aidl/android/hardware/camera2/impl/CameraMetadataNative.aidl :
+frameworks/av/camera/aidl/android/hardware/camera2/impl/CaptureResultExtras.aidl :

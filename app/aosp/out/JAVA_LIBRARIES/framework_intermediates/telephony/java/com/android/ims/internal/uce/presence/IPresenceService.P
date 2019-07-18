@@ -1,0 +1,14 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/telephony/java/com/android/ims/internal/uce/presence/IPresenceService.java : \
+  frameworks/base/telephony/java/com/android/ims/internal/uce/presence/IPresenceService.aidl \
+  frameworks/base/telephony/java/com/android/ims/internal/uce/presence/IPresenceListener.aidl \
+  frameworks/base/telephony/java/com/android/ims/internal/uce/presence/PresCapInfo.aidl \
+  frameworks/base/telephony/java/com/android/ims/internal/uce/presence/PresServiceInfo.aidl \
+  frameworks/base/telephony/java/com/android/ims/internal/uce/common/UceLong.aidl \
+  frameworks/base/telephony/java/com/android/ims/internal/uce/common/StatusCode.aidl
+
+frameworks/base/telephony/java/com/android/ims/internal/uce/presence/IPresenceService.aidl :
+frameworks/base/telephony/java/com/android/ims/internal/uce/presence/IPresenceListener.aidl :
+frameworks/base/telephony/java/com/android/ims/internal/uce/presence/PresCapInfo.aidl :
+frameworks/base/telephony/java/com/android/ims/internal/uce/presence/PresServiceInfo.aidl :
+frameworks/base/telephony/java/com/android/ims/internal/uce/common/UceLong.aidl :
+frameworks/base/telephony/java/com/android/ims/internal/uce/common/StatusCode.aidl :

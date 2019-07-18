@@ -1,0 +1,12 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/telephony/java/com/android/internal/telephony/IMms.java : \
+  frameworks/base/telephony/java/com/android/internal/telephony/IMms.aidl \
+  frameworks/base/core/java/android/app/PendingIntent.aidl \
+  frameworks/base/core/java/android/content/ContentValues.aidl \
+  frameworks/base/core/java/android/net/Uri.aidl \
+  frameworks/base/core/java/android/os/Bundle.aidl
+
+frameworks/base/telephony/java/com/android/internal/telephony/IMms.aidl :
+frameworks/base/core/java/android/app/PendingIntent.aidl :
+frameworks/base/core/java/android/content/ContentValues.aidl :
+frameworks/base/core/java/android/net/Uri.aidl :
+frameworks/base/core/java/android/os/Bundle.aidl :

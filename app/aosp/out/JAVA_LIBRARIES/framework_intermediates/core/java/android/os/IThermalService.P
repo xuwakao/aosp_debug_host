@@ -1,0 +1,8 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/core/java/android/os/IThermalService.java : \
+  frameworks/base/core/java/android/os/IThermalService.aidl \
+  frameworks/base/core/java/android/os/IThermalEventListener.aidl \
+  frameworks/base/core/java/android/os/Temperature.aidl
+
+frameworks/base/core/java/android/os/IThermalService.aidl :
+frameworks/base/core/java/android/os/IThermalEventListener.aidl :
+frameworks/base/core/java/android/os/Temperature.aidl :

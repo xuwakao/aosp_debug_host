@@ -1,0 +1,4 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/core/java/android/hardware/fingerprint/IFingerprintClientActiveCallback.java : \
+  frameworks/base/core/java/android/hardware/fingerprint/IFingerprintClientActiveCallback.aidl
+
+frameworks/base/core/java/android/hardware/fingerprint/IFingerprintClientActiveCallback.aidl :

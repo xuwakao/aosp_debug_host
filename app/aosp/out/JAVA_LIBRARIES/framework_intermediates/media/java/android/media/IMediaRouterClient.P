@@ -1,0 +1,4 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/media/java/android/media/IMediaRouterClient.java : \
+  frameworks/base/media/java/android/media/IMediaRouterClient.aidl
+
+frameworks/base/media/java/android/media/IMediaRouterClient.aidl :

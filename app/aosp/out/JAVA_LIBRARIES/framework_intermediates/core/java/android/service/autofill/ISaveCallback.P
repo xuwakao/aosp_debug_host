@@ -1,0 +1,4 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/core/java/android/service/autofill/ISaveCallback.java : \
+  frameworks/base/core/java/android/service/autofill/ISaveCallback.aidl
+
+frameworks/base/core/java/android/service/autofill/ISaveCallback.aidl :

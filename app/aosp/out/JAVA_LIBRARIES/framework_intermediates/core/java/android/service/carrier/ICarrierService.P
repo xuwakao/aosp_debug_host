@@ -1,0 +1,8 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/core/java/android/service/carrier/ICarrierService.java : \
+  frameworks/base/core/java/android/service/carrier/ICarrierService.aidl \
+  frameworks/native/aidl/binder/android/os/PersistableBundle.aidl \
+  frameworks/base/core/java/android/service/carrier/CarrierIdentifier.aidl
+
+frameworks/base/core/java/android/service/carrier/ICarrierService.aidl :
+frameworks/native/aidl/binder/android/os/PersistableBundle.aidl :
+frameworks/base/core/java/android/service/carrier/CarrierIdentifier.aidl :

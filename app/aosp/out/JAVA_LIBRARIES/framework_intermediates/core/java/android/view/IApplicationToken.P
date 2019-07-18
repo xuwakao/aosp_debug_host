@@ -1,0 +1,4 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/core/java/android/view/IApplicationToken.java : \
+  frameworks/base/core/java/android/view/IApplicationToken.aidl
+
+frameworks/base/core/java/android/view/IApplicationToken.aidl :

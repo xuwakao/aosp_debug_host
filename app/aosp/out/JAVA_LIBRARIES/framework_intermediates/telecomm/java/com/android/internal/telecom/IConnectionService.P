@@ -1,0 +1,18 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/telecomm/java/com/android/internal/telecom/IConnectionService.java : \
+  frameworks/base/telecomm/java/com/android/internal/telecom/IConnectionService.aidl \
+  frameworks/base/core/java/android/os/Bundle.aidl \
+  frameworks/base/core/java/android/os/ParcelFileDescriptor.aidl \
+  frameworks/base/telecomm/java/android/telecom/CallAudioState.aidl \
+  frameworks/base/telecomm/java/android/telecom/ConnectionRequest.aidl \
+  frameworks/base/telecomm/java/android/telecom/Logging/Session.aidl \
+  frameworks/base/telecomm/java/android/telecom/PhoneAccountHandle.aidl \
+  frameworks/base/telecomm/java/com/android/internal/telecom/IConnectionServiceAdapter.aidl
+
+frameworks/base/telecomm/java/com/android/internal/telecom/IConnectionService.aidl :
+frameworks/base/core/java/android/os/Bundle.aidl :
+frameworks/base/core/java/android/os/ParcelFileDescriptor.aidl :
+frameworks/base/telecomm/java/android/telecom/CallAudioState.aidl :
+frameworks/base/telecomm/java/android/telecom/ConnectionRequest.aidl :
+frameworks/base/telecomm/java/android/telecom/Logging/Session.aidl :
+frameworks/base/telecomm/java/android/telecom/PhoneAccountHandle.aidl :
+frameworks/base/telecomm/java/com/android/internal/telecom/IConnectionServiceAdapter.aidl :

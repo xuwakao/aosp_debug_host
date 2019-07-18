@@ -1,0 +1,14 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/core/java/android/accessibilityservice/IAccessibilityServiceClient.java : \
+  frameworks/base/core/java/android/accessibilityservice/IAccessibilityServiceClient.aidl \
+  frameworks/base/core/java/android/accessibilityservice/IAccessibilityServiceConnection.aidl \
+  frameworks/base/graphics/java/android/graphics/Region.aidl \
+  frameworks/base/core/java/android/view/accessibility/AccessibilityEvent.aidl \
+  frameworks/base/core/java/android/view/accessibility/AccessibilityWindowInfo.aidl \
+  frameworks/base/core/java/android/view/KeyEvent.aidl
+
+frameworks/base/core/java/android/accessibilityservice/IAccessibilityServiceClient.aidl :
+frameworks/base/core/java/android/accessibilityservice/IAccessibilityServiceConnection.aidl :
+frameworks/base/graphics/java/android/graphics/Region.aidl :
+frameworks/base/core/java/android/view/accessibility/AccessibilityEvent.aidl :
+frameworks/base/core/java/android/view/accessibility/AccessibilityWindowInfo.aidl :
+frameworks/base/core/java/android/view/KeyEvent.aidl :

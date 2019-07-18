@@ -1,0 +1,20 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/core/java/android/bluetooth/IBluetooth.java : \
+  frameworks/base/core/java/android/bluetooth/IBluetooth.aidl \
+  frameworks/base/core/java/android/bluetooth/IBluetoothCallback.aidl \
+  frameworks/base/core/java/android/bluetooth/IBluetoothStateChangeCallback.aidl \
+  frameworks/base/core/java/android/bluetooth/BluetoothActivityEnergyInfo.aidl \
+  frameworks/base/core/java/android/bluetooth/BluetoothDevice.aidl \
+  frameworks/base/core/java/android/bluetooth/OobData.aidl \
+  frameworks/base/core/java/android/os/ParcelUuid.aidl \
+  frameworks/base/core/java/android/os/ParcelFileDescriptor.aidl \
+  frameworks/base/core/java/android/os/ResultReceiver.aidl
+
+frameworks/base/core/java/android/bluetooth/IBluetooth.aidl :
+frameworks/base/core/java/android/bluetooth/IBluetoothCallback.aidl :
+frameworks/base/core/java/android/bluetooth/IBluetoothStateChangeCallback.aidl :
+frameworks/base/core/java/android/bluetooth/BluetoothActivityEnergyInfo.aidl :
+frameworks/base/core/java/android/bluetooth/BluetoothDevice.aidl :
+frameworks/base/core/java/android/bluetooth/OobData.aidl :
+frameworks/base/core/java/android/os/ParcelUuid.aidl :
+frameworks/base/core/java/android/os/ParcelFileDescriptor.aidl :
+frameworks/base/core/java/android/os/ResultReceiver.aidl :

@@ -1,0 +1,10 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/core/java/android/printservice/IPrintService.java : \
+  frameworks/base/core/java/android/printservice/IPrintService.aidl \
+  frameworks/base/core/java/android/print/PrinterId.aidl \
+  frameworks/base/core/java/android/print/PrintJobInfo.aidl \
+  frameworks/base/core/java/android/printservice/IPrintServiceClient.aidl
+
+frameworks/base/core/java/android/printservice/IPrintService.aidl :
+frameworks/base/core/java/android/print/PrinterId.aidl :
+frameworks/base/core/java/android/print/PrintJobInfo.aidl :
+frameworks/base/core/java/android/printservice/IPrintServiceClient.aidl :

@@ -1,0 +1,12 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/media/java/android/media/IRingtonePlayer.java : \
+  frameworks/base/media/java/android/media/IRingtonePlayer.aidl \
+  frameworks/base/media/java/android/media/AudioAttributes.aidl \
+  frameworks/base/core/java/android/net/Uri.aidl \
+  frameworks/base/core/java/android/os/ParcelFileDescriptor.aidl \
+  frameworks/base/core/java/android/os/UserHandle.aidl
+
+frameworks/base/media/java/android/media/IRingtonePlayer.aidl :
+frameworks/base/media/java/android/media/AudioAttributes.aidl :
+frameworks/base/core/java/android/net/Uri.aidl :
+frameworks/base/core/java/android/os/ParcelFileDescriptor.aidl :
+frameworks/base/core/java/android/os/UserHandle.aidl :

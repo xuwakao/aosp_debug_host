@@ -1,0 +1,6 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/core/java/android/bluetooth/IBluetoothManagerCallback.java : \
+  frameworks/base/core/java/android/bluetooth/IBluetoothManagerCallback.aidl \
+  frameworks/base/core/java/android/bluetooth/IBluetooth.aidl
+
+frameworks/base/core/java/android/bluetooth/IBluetoothManagerCallback.aidl :
+frameworks/base/core/java/android/bluetooth/IBluetooth.aidl :

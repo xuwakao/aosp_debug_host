@@ -1,0 +1,6 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/core/java/android/app/IAlarmListener.java : \
+  frameworks/base/core/java/android/app/IAlarmListener.aidl \
+  frameworks/base/core/java/android/app/IAlarmCompleteListener.aidl
+
+frameworks/base/core/java/android/app/IAlarmListener.aidl :
+frameworks/base/core/java/android/app/IAlarmCompleteListener.aidl :

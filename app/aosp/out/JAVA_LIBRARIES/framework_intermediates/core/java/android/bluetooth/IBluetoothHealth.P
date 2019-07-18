@@ -1,0 +1,12 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/core/java/android/bluetooth/IBluetoothHealth.java : \
+  frameworks/base/core/java/android/bluetooth/IBluetoothHealth.aidl \
+  frameworks/base/core/java/android/bluetooth/BluetoothDevice.aidl \
+  frameworks/base/core/java/android/bluetooth/BluetoothHealthAppConfiguration.aidl \
+  frameworks/base/core/java/android/bluetooth/IBluetoothHealthCallback.aidl \
+  frameworks/base/core/java/android/os/ParcelFileDescriptor.aidl
+
+frameworks/base/core/java/android/bluetooth/IBluetoothHealth.aidl :
+frameworks/base/core/java/android/bluetooth/BluetoothDevice.aidl :
+frameworks/base/core/java/android/bluetooth/BluetoothHealthAppConfiguration.aidl :
+frameworks/base/core/java/android/bluetooth/IBluetoothHealthCallback.aidl :
+frameworks/base/core/java/android/os/ParcelFileDescriptor.aidl :

@@ -1,0 +1,4 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/wifi/java/android/net/wifi/aware/IWifiAwareDiscoverySessionCallback.java : \
+  frameworks/base/wifi/java/android/net/wifi/aware/IWifiAwareDiscoverySessionCallback.aidl
+
+frameworks/base/wifi/java/android/net/wifi/aware/IWifiAwareDiscoverySessionCallback.aidl :

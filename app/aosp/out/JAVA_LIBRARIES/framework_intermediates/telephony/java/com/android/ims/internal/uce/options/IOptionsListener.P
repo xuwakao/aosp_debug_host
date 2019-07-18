@@ -1,0 +1,12 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/telephony/java/com/android/ims/internal/uce/options/IOptionsListener.java : \
+  frameworks/base/telephony/java/com/android/ims/internal/uce/options/IOptionsListener.aidl \
+  frameworks/base/telephony/java/com/android/ims/internal/uce/options/OptionsSipResponse.aidl \
+  frameworks/base/telephony/java/com/android/ims/internal/uce/options/OptionsCapInfo.aidl \
+  frameworks/base/telephony/java/com/android/ims/internal/uce/options/OptionsCmdStatus.aidl \
+  frameworks/base/telephony/java/com/android/ims/internal/uce/common/StatusCode.aidl
+
+frameworks/base/telephony/java/com/android/ims/internal/uce/options/IOptionsListener.aidl :
+frameworks/base/telephony/java/com/android/ims/internal/uce/options/OptionsSipResponse.aidl :
+frameworks/base/telephony/java/com/android/ims/internal/uce/options/OptionsCapInfo.aidl :
+frameworks/base/telephony/java/com/android/ims/internal/uce/options/OptionsCmdStatus.aidl :
+frameworks/base/telephony/java/com/android/ims/internal/uce/common/StatusCode.aidl :

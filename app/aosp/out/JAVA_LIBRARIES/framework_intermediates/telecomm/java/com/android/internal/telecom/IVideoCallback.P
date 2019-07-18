@@ -1,0 +1,6 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/telecomm/java/com/android/internal/telecom/IVideoCallback.java : \
+  frameworks/base/telecomm/java/com/android/internal/telecom/IVideoCallback.aidl \
+  frameworks/base/telecomm/java/android/telecom/VideoProfile.aidl
+
+frameworks/base/telecomm/java/com/android/internal/telecom/IVideoCallback.aidl :
+frameworks/base/telecomm/java/android/telecom/VideoProfile.aidl :

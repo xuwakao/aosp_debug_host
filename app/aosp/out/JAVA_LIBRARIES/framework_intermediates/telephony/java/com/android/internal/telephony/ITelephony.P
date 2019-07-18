@@ -1,0 +1,54 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/telephony/java/com/android/internal/telephony/ITelephony.java : \
+  frameworks/base/telephony/java/com/android/internal/telephony/ITelephony.aidl \
+  frameworks/base/core/java/android/app/PendingIntent.aidl \
+  frameworks/base/core/java/android/content/Intent.aidl \
+  frameworks/base/core/java/android/os/Bundle.aidl \
+  frameworks/base/core/java/android/os/Messenger.aidl \
+  frameworks/base/core/java/android/os/ResultReceiver.aidl \
+  frameworks/base/core/java/android/net/NetworkStats.aidl \
+  frameworks/base/core/java/android/net/Uri.aidl \
+  frameworks/base/core/java/android/service/carrier/CarrierIdentifier.aidl \
+  frameworks/base/telecomm/java/android/telecom/PhoneAccount.aidl \
+  frameworks/base/telecomm/java/android/telecom/PhoneAccountHandle.aidl \
+  frameworks/base/telephony/java/android/telephony/CellInfo.aidl \
+  frameworks/base/telephony/java/android/telephony/ClientRequestStats.aidl \
+  frameworks/base/telephony/java/android/telephony/IccOpenLogicalChannelResponse.aidl \
+  frameworks/base/telephony/java/android/telephony/ModemActivityInfo.aidl \
+  frameworks/base/telephony/java/android/telephony/NeighboringCellInfo.aidl \
+  frameworks/base/telephony/java/android/telephony/NetworkScanRequest.aidl \
+  frameworks/base/telephony/java/android/telephony/RadioAccessFamily.aidl \
+  frameworks/base/telephony/java/android/telephony/ServiceState.aidl \
+  frameworks/base/telephony/java/android/telephony/SignalStrength.aidl \
+  frameworks/base/telephony/java/android/telephony/TelephonyHistogram.aidl \
+  frameworks/base/telephony/java/android/telephony/VisualVoicemailSmsFilterSettings.aidl \
+  frameworks/base/telephony/java/com/android/ims/internal/IImsServiceController.aidl \
+  frameworks/base/telephony/java/com/android/ims/internal/IImsServiceFeatureListener.aidl \
+  frameworks/base/telephony/java/com/android/internal/telephony/CellNetworkScanResult.aidl \
+  frameworks/base/telephony/java/com/android/internal/telephony/OperatorInfo.aidl
+
+frameworks/base/telephony/java/com/android/internal/telephony/ITelephony.aidl :
+frameworks/base/core/java/android/app/PendingIntent.aidl :
+frameworks/base/core/java/android/content/Intent.aidl :
+frameworks/base/core/java/android/os/Bundle.aidl :
+frameworks/base/core/java/android/os/Messenger.aidl :
+frameworks/base/core/java/android/os/ResultReceiver.aidl :
+frameworks/base/core/java/android/net/NetworkStats.aidl :
+frameworks/base/core/java/android/net/Uri.aidl :
+frameworks/base/core/java/android/service/carrier/CarrierIdentifier.aidl :
+frameworks/base/telecomm/java/android/telecom/PhoneAccount.aidl :
+frameworks/base/telecomm/java/android/telecom/PhoneAccountHandle.aidl :
+frameworks/base/telephony/java/android/telephony/CellInfo.aidl :
+frameworks/base/telephony/java/android/telephony/ClientRequestStats.aidl :
+frameworks/base/telephony/java/android/telephony/IccOpenLogicalChannelResponse.aidl :
+frameworks/base/telephony/java/android/telephony/ModemActivityInfo.aidl :
+frameworks/base/telephony/java/android/telephony/NeighboringCellInfo.aidl :
+frameworks/base/telephony/java/android/telephony/NetworkScanRequest.aidl :
+frameworks/base/telephony/java/android/telephony/RadioAccessFamily.aidl :
+frameworks/base/telephony/java/android/telephony/ServiceState.aidl :
+frameworks/base/telephony/java/android/telephony/SignalStrength.aidl :
+frameworks/base/telephony/java/android/telephony/TelephonyHistogram.aidl :
+frameworks/base/telephony/java/android/telephony/VisualVoicemailSmsFilterSettings.aidl :
+frameworks/base/telephony/java/com/android/ims/internal/IImsServiceController.aidl :
+frameworks/base/telephony/java/com/android/ims/internal/IImsServiceFeatureListener.aidl :
+frameworks/base/telephony/java/com/android/internal/telephony/CellNetworkScanResult.aidl :
+frameworks/base/telephony/java/com/android/internal/telephony/OperatorInfo.aidl :

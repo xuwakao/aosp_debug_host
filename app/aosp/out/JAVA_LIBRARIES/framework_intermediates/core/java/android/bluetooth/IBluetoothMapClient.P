@@ -1,0 +1,10 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/core/java/android/bluetooth/IBluetoothMapClient.java : \
+  frameworks/base/core/java/android/bluetooth/IBluetoothMapClient.aidl \
+  frameworks/base/core/java/android/app/PendingIntent.aidl \
+  frameworks/base/core/java/android/bluetooth/BluetoothDevice.aidl \
+  frameworks/base/core/java/android/net/Uri.aidl
+
+frameworks/base/core/java/android/bluetooth/IBluetoothMapClient.aidl :
+frameworks/base/core/java/android/app/PendingIntent.aidl :
+frameworks/base/core/java/android/bluetooth/BluetoothDevice.aidl :
+frameworks/base/core/java/android/net/Uri.aidl :

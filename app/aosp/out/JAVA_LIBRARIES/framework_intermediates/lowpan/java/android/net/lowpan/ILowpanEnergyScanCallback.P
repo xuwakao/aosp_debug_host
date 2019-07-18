@@ -1,0 +1,4 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/lowpan/java/android/net/lowpan/ILowpanEnergyScanCallback.java : \
+  frameworks/base/lowpan/java/android/net/lowpan/ILowpanEnergyScanCallback.aidl
+
+frameworks/base/lowpan/java/android/net/lowpan/ILowpanEnergyScanCallback.aidl :

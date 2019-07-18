@@ -1,0 +1,30 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/core/java/android/content/pm/ILauncherApps.java : \
+  frameworks/base/core/java/android/content/pm/ILauncherApps.aidl \
+  frameworks/base/core/java/android/content/ComponentName.aidl \
+  frameworks/base/core/java/android/content/Intent.aidl \
+  frameworks/base/core/java/android/content/IntentSender.aidl \
+  frameworks/base/core/java/android/content/pm/ActivityInfo.aidl \
+  frameworks/base/core/java/android/content/pm/ApplicationInfo.aidl \
+  frameworks/base/core/java/android/content/pm/IOnAppsChangedListener.aidl \
+  frameworks/base/core/java/android/content/pm/ParceledListSlice.aidl \
+  frameworks/base/core/java/android/content/pm/ResolveInfo.aidl \
+  frameworks/base/core/java/android/content/pm/ShortcutInfo.aidl \
+  frameworks/base/graphics/java/android/graphics/Rect.aidl \
+  frameworks/base/core/java/android/os/Bundle.aidl \
+  frameworks/base/core/java/android/os/UserHandle.aidl \
+  frameworks/base/core/java/android/os/ParcelFileDescriptor.aidl
+
+frameworks/base/core/java/android/content/pm/ILauncherApps.aidl :
+frameworks/base/core/java/android/content/ComponentName.aidl :
+frameworks/base/core/java/android/content/Intent.aidl :
+frameworks/base/core/java/android/content/IntentSender.aidl :
+frameworks/base/core/java/android/content/pm/ActivityInfo.aidl :
+frameworks/base/core/java/android/content/pm/ApplicationInfo.aidl :
+frameworks/base/core/java/android/content/pm/IOnAppsChangedListener.aidl :
+frameworks/base/core/java/android/content/pm/ParceledListSlice.aidl :
+frameworks/base/core/java/android/content/pm/ResolveInfo.aidl :
+frameworks/base/core/java/android/content/pm/ShortcutInfo.aidl :
+frameworks/base/graphics/java/android/graphics/Rect.aidl :
+frameworks/base/core/java/android/os/Bundle.aidl :
+frameworks/base/core/java/android/os/UserHandle.aidl :
+frameworks/base/core/java/android/os/ParcelFileDescriptor.aidl :

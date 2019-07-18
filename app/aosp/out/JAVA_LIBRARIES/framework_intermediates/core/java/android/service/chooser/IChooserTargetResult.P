@@ -1,0 +1,6 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/core/java/android/service/chooser/IChooserTargetResult.java : \
+  frameworks/base/core/java/android/service/chooser/IChooserTargetResult.aidl \
+  frameworks/base/core/java/android/service/chooser/ChooserTarget.aidl
+
+frameworks/base/core/java/android/service/chooser/IChooserTargetResult.aidl :
+frameworks/base/core/java/android/service/chooser/ChooserTarget.aidl :

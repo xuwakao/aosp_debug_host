@@ -1,0 +1,10 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/core/java/android/service/vr/IVrManager.java : \
+  frameworks/base/core/java/android/service/vr/IVrManager.aidl \
+  frameworks/base/core/java/android/app/Vr2dDisplayProperties.aidl \
+  frameworks/base/core/java/android/service/vr/IVrStateCallbacks.aidl \
+  frameworks/base/core/java/android/service/vr/IPersistentVrStateCallbacks.aidl
+
+frameworks/base/core/java/android/service/vr/IVrManager.aidl :
+frameworks/base/core/java/android/app/Vr2dDisplayProperties.aidl :
+frameworks/base/core/java/android/service/vr/IVrStateCallbacks.aidl :
+frameworks/base/core/java/android/service/vr/IPersistentVrStateCallbacks.aidl :

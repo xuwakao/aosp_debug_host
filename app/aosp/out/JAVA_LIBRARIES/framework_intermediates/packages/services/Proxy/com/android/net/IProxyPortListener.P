@@ -1,0 +1,4 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/packages/services/Proxy/com/android/net/IProxyPortListener.java : \
+  frameworks/base/packages/services/Proxy/com/android/net/IProxyPortListener.aidl
+
+frameworks/base/packages/services/Proxy/com/android/net/IProxyPortListener.aidl :

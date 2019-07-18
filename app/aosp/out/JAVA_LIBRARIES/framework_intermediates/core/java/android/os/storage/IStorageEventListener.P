@@ -1,0 +1,10 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/core/java/android/os/storage/IStorageEventListener.java : \
+  frameworks/base/core/java/android/os/storage/IStorageEventListener.aidl \
+  frameworks/base/core/java/android/os/storage/DiskInfo.aidl \
+  frameworks/base/core/java/android/os/storage/VolumeInfo.aidl \
+  frameworks/base/core/java/android/os/storage/VolumeRecord.aidl
+
+frameworks/base/core/java/android/os/storage/IStorageEventListener.aidl :
+frameworks/base/core/java/android/os/storage/DiskInfo.aidl :
+frameworks/base/core/java/android/os/storage/VolumeInfo.aidl :
+frameworks/base/core/java/android/os/storage/VolumeRecord.aidl :

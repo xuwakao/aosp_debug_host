@@ -1,0 +1,6 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/core/java/android/os/IMessenger.java : \
+  frameworks/base/core/java/android/os/IMessenger.aidl \
+  frameworks/base/core/java/android/os/Message.aidl
+
+frameworks/base/core/java/android/os/IMessenger.aidl :
+frameworks/base/core/java/android/os/Message.aidl :

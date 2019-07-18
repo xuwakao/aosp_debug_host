@@ -1,0 +1,6 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/core/java/android/hardware/hdmi/IHdmiHotplugEventListener.java : \
+  frameworks/base/core/java/android/hardware/hdmi/IHdmiHotplugEventListener.aidl \
+  frameworks/base/core/java/android/hardware/hdmi/HdmiHotplugEvent.aidl
+
+frameworks/base/core/java/android/hardware/hdmi/IHdmiHotplugEventListener.aidl :
+frameworks/base/core/java/android/hardware/hdmi/HdmiHotplugEvent.aidl :

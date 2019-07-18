@@ -1,0 +1,10 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/core/java/com/android/internal/app/IVoiceInteractorCallback.java : \
+  frameworks/base/core/java/com/android/internal/app/IVoiceInteractorCallback.aidl \
+  frameworks/base/core/java/android/app/VoiceInteractor.aidl \
+  frameworks/base/core/java/android/os/Bundle.aidl \
+  frameworks/base/core/java/com/android/internal/app/IVoiceInteractorRequest.aidl
+
+frameworks/base/core/java/com/android/internal/app/IVoiceInteractorCallback.aidl :
+frameworks/base/core/java/android/app/VoiceInteractor.aidl :
+frameworks/base/core/java/android/os/Bundle.aidl :
+frameworks/base/core/java/com/android/internal/app/IVoiceInteractorRequest.aidl :

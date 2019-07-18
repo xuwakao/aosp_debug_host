@@ -1,0 +1,6 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/media/java/android/media/IPlayer.java : \
+  frameworks/base/media/java/android/media/IPlayer.aidl \
+  frameworks/base/media/java/android/media/VolumeShaper.aidl
+
+frameworks/base/media/java/android/media/IPlayer.aidl :
+frameworks/base/media/java/android/media/VolumeShaper.aidl :

@@ -1,0 +1,6 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/core/java/android/view/IAppTransitionAnimationSpecsFuture.java : \
+  frameworks/base/core/java/android/view/IAppTransitionAnimationSpecsFuture.aidl \
+  frameworks/base/core/java/android/view/AppTransitionAnimationSpec.aidl
+
+frameworks/base/core/java/android/view/IAppTransitionAnimationSpecsFuture.aidl :
+frameworks/base/core/java/android/view/AppTransitionAnimationSpec.aidl :

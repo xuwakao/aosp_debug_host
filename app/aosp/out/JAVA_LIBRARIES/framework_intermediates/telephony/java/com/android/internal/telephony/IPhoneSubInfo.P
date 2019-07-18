@@ -1,0 +1,6 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/telephony/java/com/android/internal/telephony/IPhoneSubInfo.java : \
+  frameworks/base/telephony/java/com/android/internal/telephony/IPhoneSubInfo.aidl \
+  frameworks/base/telephony/java/android/telephony/ImsiEncryptionInfo.aidl
+
+frameworks/base/telephony/java/com/android/internal/telephony/IPhoneSubInfo.aidl :
+frameworks/base/telephony/java/android/telephony/ImsiEncryptionInfo.aidl :

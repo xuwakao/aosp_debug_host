@@ -1,0 +1,8 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/core/java/android/bluetooth/le/IPeriodicAdvertisingCallback.java : \
+  frameworks/base/core/java/android/bluetooth/le/IPeriodicAdvertisingCallback.aidl \
+  frameworks/base/core/java/android/bluetooth/BluetoothDevice.aidl \
+  frameworks/base/core/java/android/bluetooth/le/PeriodicAdvertisingReport.aidl
+
+frameworks/base/core/java/android/bluetooth/le/IPeriodicAdvertisingCallback.aidl :
+frameworks/base/core/java/android/bluetooth/BluetoothDevice.aidl :
+frameworks/base/core/java/android/bluetooth/le/PeriodicAdvertisingReport.aidl :

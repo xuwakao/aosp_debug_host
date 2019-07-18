@@ -1,0 +1,6 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/core/java/android/bluetooth/IBluetoothGattServerCallback.java : \
+  frameworks/base/core/java/android/bluetooth/IBluetoothGattServerCallback.aidl \
+  frameworks/base/core/java/android/bluetooth/BluetoothGattService.aidl
+
+frameworks/base/core/java/android/bluetooth/IBluetoothGattServerCallback.aidl :
+frameworks/base/core/java/android/bluetooth/BluetoothGattService.aidl :

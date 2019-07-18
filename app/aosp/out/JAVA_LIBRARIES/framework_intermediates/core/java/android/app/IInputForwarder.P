@@ -1,0 +1,6 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/core/java/android/app/IInputForwarder.java : \
+  frameworks/base/core/java/android/app/IInputForwarder.aidl \
+  frameworks/base/core/java/android/view/InputEvent.aidl
+
+frameworks/base/core/java/android/app/IInputForwarder.aidl :
+frameworks/base/core/java/android/view/InputEvent.aidl :

@@ -1,0 +1,6 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/dotdot/dotdot/system/netd/server/binder/android/net/INetd.java : \
+  frameworks/base/../../system/netd/server/binder/android/net/INetd.aidl \
+  system/netd/server/binder/android/net/UidRange.aidl
+
+frameworks/base/../../system/netd/server/binder/android/net/INetd.aidl :
+system/netd/server/binder/android/net/UidRange.aidl :

@@ -1,0 +1,6 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/media/java/android/media/IPlaybackConfigDispatcher.java : \
+  frameworks/base/media/java/android/media/IPlaybackConfigDispatcher.aidl \
+  frameworks/base/media/java/android/media/AudioPlaybackConfiguration.aidl
+
+frameworks/base/media/java/android/media/IPlaybackConfigDispatcher.aidl :
+frameworks/base/media/java/android/media/AudioPlaybackConfiguration.aidl :

@@ -1,0 +1,8 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/core/java/com/android/internal/textservice/ISpellCheckerSessionListener.java : \
+  frameworks/base/core/java/com/android/internal/textservice/ISpellCheckerSessionListener.aidl \
+  frameworks/base/core/java/android/view/textservice/SentenceSuggestionsInfo.aidl \
+  frameworks/base/core/java/android/view/textservice/SuggestionsInfo.aidl
+
+frameworks/base/core/java/com/android/internal/textservice/ISpellCheckerSessionListener.aidl :
+frameworks/base/core/java/android/view/textservice/SentenceSuggestionsInfo.aidl :
+frameworks/base/core/java/android/view/textservice/SuggestionsInfo.aidl :

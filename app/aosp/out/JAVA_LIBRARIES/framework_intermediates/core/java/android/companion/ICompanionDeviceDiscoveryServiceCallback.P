@@ -1,0 +1,4 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/core/java/android/companion/ICompanionDeviceDiscoveryServiceCallback.java : \
+  frameworks/base/core/java/android/companion/ICompanionDeviceDiscoveryServiceCallback.aidl
+
+frameworks/base/core/java/android/companion/ICompanionDeviceDiscoveryServiceCallback.aidl :

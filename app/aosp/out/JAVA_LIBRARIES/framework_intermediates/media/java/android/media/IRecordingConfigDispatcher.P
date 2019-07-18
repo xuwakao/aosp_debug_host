@@ -1,0 +1,6 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/media/java/android/media/IRecordingConfigDispatcher.java : \
+  frameworks/base/media/java/android/media/IRecordingConfigDispatcher.aidl \
+  frameworks/base/media/java/android/media/AudioRecordingConfiguration.aidl
+
+frameworks/base/media/java/android/media/IRecordingConfigDispatcher.aidl :
+frameworks/base/media/java/android/media/AudioRecordingConfiguration.aidl :

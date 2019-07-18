@@ -1,0 +1,4 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/telephony/java/com/android/internal/telephony/IOnSubscriptionsChangedListener.java : \
+  frameworks/base/telephony/java/com/android/internal/telephony/IOnSubscriptionsChangedListener.aidl
+
+frameworks/base/telephony/java/com/android/internal/telephony/IOnSubscriptionsChangedListener.aidl :

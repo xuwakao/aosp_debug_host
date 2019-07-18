@@ -1,0 +1,10 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/core/java/android/net/INetworkStatsSession.java : \
+  frameworks/base/core/java/android/net/INetworkStatsSession.aidl \
+  frameworks/base/core/java/android/net/NetworkStats.aidl \
+  frameworks/base/core/java/android/net/NetworkStatsHistory.aidl \
+  frameworks/base/core/java/android/net/NetworkTemplate.aidl
+
+frameworks/base/core/java/android/net/INetworkStatsSession.aidl :
+frameworks/base/core/java/android/net/NetworkStats.aidl :
+frameworks/base/core/java/android/net/NetworkStatsHistory.aidl :
+frameworks/base/core/java/android/net/NetworkTemplate.aidl :

@@ -1,0 +1,6 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/core/java/com/android/internal/os/IResultReceiver.java : \
+  frameworks/base/core/java/com/android/internal/os/IResultReceiver.aidl \
+  frameworks/base/core/java/android/os/Bundle.aidl
+
+frameworks/base/core/java/com/android/internal/os/IResultReceiver.aidl :
+frameworks/base/core/java/android/os/Bundle.aidl :

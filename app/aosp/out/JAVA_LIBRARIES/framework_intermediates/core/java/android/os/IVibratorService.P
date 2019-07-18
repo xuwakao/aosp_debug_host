@@ -1,0 +1,6 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/core/java/android/os/IVibratorService.java : \
+  frameworks/base/core/java/android/os/IVibratorService.aidl \
+  frameworks/base/core/java/android/os/VibrationEffect.aidl
+
+frameworks/base/core/java/android/os/IVibratorService.aidl :
+frameworks/base/core/java/android/os/VibrationEffect.aidl :

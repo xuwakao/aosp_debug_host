@@ -1,0 +1,18 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/core/java/android/net/IIpSecService.java : \
+  frameworks/base/core/java/android/net/IIpSecService.aidl \
+  frameworks/base/core/java/android/net/Network.aidl \
+  frameworks/base/core/java/android/net/IpSecConfig.aidl \
+  frameworks/base/core/java/android/net/IpSecUdpEncapResponse.aidl \
+  frameworks/base/core/java/android/net/IpSecSpiResponse.aidl \
+  frameworks/base/core/java/android/net/IpSecTransformResponse.aidl \
+  frameworks/base/core/java/android/os/Bundle.aidl \
+  frameworks/base/core/java/android/os/ParcelFileDescriptor.aidl
+
+frameworks/base/core/java/android/net/IIpSecService.aidl :
+frameworks/base/core/java/android/net/Network.aidl :
+frameworks/base/core/java/android/net/IpSecConfig.aidl :
+frameworks/base/core/java/android/net/IpSecUdpEncapResponse.aidl :
+frameworks/base/core/java/android/net/IpSecSpiResponse.aidl :
+frameworks/base/core/java/android/net/IpSecTransformResponse.aidl :
+frameworks/base/core/java/android/os/Bundle.aidl :
+frameworks/base/core/java/android/os/ParcelFileDescriptor.aidl :

@@ -1,0 +1,4 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/telephony/java/android/telephony/mbms/IStreamingServiceCallback.java : \
+  frameworks/base/telephony/java/android/telephony/mbms/IStreamingServiceCallback.aidl
+
+frameworks/base/telephony/java/android/telephony/mbms/IStreamingServiceCallback.aidl :

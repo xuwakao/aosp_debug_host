@@ -1,0 +1,6 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/location/java/android/location/IFusedGeofenceHardware.java : \
+  frameworks/base/location/java/android/location/IFusedGeofenceHardware.aidl \
+  frameworks/base/core/java/android/hardware/location/GeofenceHardwareRequestParcelable.aidl
+
+frameworks/base/location/java/android/location/IFusedGeofenceHardware.aidl :
+frameworks/base/core/java/android/hardware/location/GeofenceHardwareRequestParcelable.aidl :

@@ -1,0 +1,20 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/media/java/android/media/midi/IMidiManager.java : \
+  frameworks/base/media/java/android/media/midi/IMidiManager.aidl \
+  frameworks/base/core/java/android/bluetooth/BluetoothDevice.aidl \
+  frameworks/base/media/java/android/media/midi/IMidiDeviceListener.aidl \
+  frameworks/base/media/java/android/media/midi/IMidiDeviceOpenCallback.aidl \
+  frameworks/base/media/java/android/media/midi/IMidiDeviceServer.aidl \
+  frameworks/base/media/java/android/media/midi/IMidiDeviceServer.aidl \
+  frameworks/base/media/java/android/media/midi/MidiDeviceInfo.aidl \
+  frameworks/base/media/java/android/media/midi/MidiDeviceStatus.aidl \
+  frameworks/base/core/java/android/os/Bundle.aidl
+
+frameworks/base/media/java/android/media/midi/IMidiManager.aidl :
+frameworks/base/core/java/android/bluetooth/BluetoothDevice.aidl :
+frameworks/base/media/java/android/media/midi/IMidiDeviceListener.aidl :
+frameworks/base/media/java/android/media/midi/IMidiDeviceOpenCallback.aidl :
+frameworks/base/media/java/android/media/midi/IMidiDeviceServer.aidl :
+frameworks/base/media/java/android/media/midi/IMidiDeviceServer.aidl :
+frameworks/base/media/java/android/media/midi/MidiDeviceInfo.aidl :
+frameworks/base/media/java/android/media/midi/MidiDeviceStatus.aidl :
+frameworks/base/core/java/android/os/Bundle.aidl :

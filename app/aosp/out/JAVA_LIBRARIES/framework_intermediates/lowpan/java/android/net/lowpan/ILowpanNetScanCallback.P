@@ -1,0 +1,6 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/lowpan/java/android/net/lowpan/ILowpanNetScanCallback.java : \
+  frameworks/base/lowpan/java/android/net/lowpan/ILowpanNetScanCallback.aidl \
+  frameworks/base/lowpan/java/android/net/lowpan/LowpanBeaconInfo.aidl
+
+frameworks/base/lowpan/java/android/net/lowpan/ILowpanNetScanCallback.aidl :
+frameworks/base/lowpan/java/android/net/lowpan/LowpanBeaconInfo.aidl :

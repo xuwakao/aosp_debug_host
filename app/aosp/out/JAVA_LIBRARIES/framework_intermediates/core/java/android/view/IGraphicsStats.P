@@ -1,0 +1,8 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/core/java/android/view/IGraphicsStats.java : \
+  frameworks/base/core/java/android/view/IGraphicsStats.aidl \
+  frameworks/base/core/java/android/os/ParcelFileDescriptor.aidl \
+  frameworks/base/core/java/android/view/IGraphicsStatsCallback.aidl
+
+frameworks/base/core/java/android/view/IGraphicsStats.aidl :
+frameworks/base/core/java/android/os/ParcelFileDescriptor.aidl :
+frameworks/base/core/java/android/view/IGraphicsStatsCallback.aidl :

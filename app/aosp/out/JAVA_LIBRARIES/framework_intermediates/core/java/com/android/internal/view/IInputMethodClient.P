@@ -1,0 +1,6 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/core/java/com/android/internal/view/IInputMethodClient.java : \
+  frameworks/base/core/java/com/android/internal/view/IInputMethodClient.aidl \
+  frameworks/base/core/java/com/android/internal/view/InputBindResult.aidl
+
+frameworks/base/core/java/com/android/internal/view/IInputMethodClient.aidl :
+frameworks/base/core/java/com/android/internal/view/InputBindResult.aidl :

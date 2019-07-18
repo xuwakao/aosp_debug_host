@@ -1,0 +1,4 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/core/java/android/bluetooth/IBluetoothHeadsetPhone.java : \
+  frameworks/base/core/java/android/bluetooth/IBluetoothHeadsetPhone.aidl
+
+frameworks/base/core/java/android/bluetooth/IBluetoothHeadsetPhone.aidl :

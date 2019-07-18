@@ -1,0 +1,14 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/telephony/java/com/android/ims/internal/IImsUtListener.java : \
+  frameworks/base/telephony/java/com/android/ims/internal/IImsUtListener.aidl \
+  frameworks/base/core/java/android/os/Bundle.aidl \
+  frameworks/base/telephony/java/com/android/ims/ImsCallForwardInfo.aidl \
+  frameworks/base/telephony/java/com/android/ims/ImsSsInfo.aidl \
+  frameworks/base/telephony/java/com/android/ims/internal/IImsUt.aidl \
+  frameworks/base/telephony/java/com/android/ims/ImsReasonInfo.aidl
+
+frameworks/base/telephony/java/com/android/ims/internal/IImsUtListener.aidl :
+frameworks/base/core/java/android/os/Bundle.aidl :
+frameworks/base/telephony/java/com/android/ims/ImsCallForwardInfo.aidl :
+frameworks/base/telephony/java/com/android/ims/ImsSsInfo.aidl :
+frameworks/base/telephony/java/com/android/ims/internal/IImsUt.aidl :
+frameworks/base/telephony/java/com/android/ims/ImsReasonInfo.aidl :

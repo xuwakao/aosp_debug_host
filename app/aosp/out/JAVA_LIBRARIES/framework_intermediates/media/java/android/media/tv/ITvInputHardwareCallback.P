@@ -1,0 +1,6 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/media/java/android/media/tv/ITvInputHardwareCallback.java : \
+  frameworks/base/media/java/android/media/tv/ITvInputHardwareCallback.aidl \
+  frameworks/base/media/java/android/media/tv/TvStreamConfig.aidl
+
+frameworks/base/media/java/android/media/tv/ITvInputHardwareCallback.aidl :
+frameworks/base/media/java/android/media/tv/TvStreamConfig.aidl :

@@ -1,0 +1,6 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/dotdot/dotdot/system/update_engine/binder_bindings/android/os/IUpdateEngine.java : \
+  frameworks/base/../../system/update_engine/binder_bindings/android/os/IUpdateEngine.aidl \
+  system/update_engine/binder_bindings/android/os/IUpdateEngineCallback.aidl
+
+frameworks/base/../../system/update_engine/binder_bindings/android/os/IUpdateEngine.aidl :
+system/update_engine/binder_bindings/android/os/IUpdateEngineCallback.aidl :

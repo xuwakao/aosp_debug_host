@@ -1,0 +1,14 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/core/java/android/hardware/fingerprint/IFingerprintService.java : \
+  frameworks/base/core/java/android/hardware/fingerprint/IFingerprintService.aidl \
+  frameworks/base/core/java/android/os/Bundle.aidl \
+  frameworks/base/core/java/android/hardware/fingerprint/IFingerprintClientActiveCallback.aidl \
+  frameworks/base/core/java/android/hardware/fingerprint/IFingerprintServiceReceiver.aidl \
+  frameworks/base/core/java/android/hardware/fingerprint/IFingerprintServiceLockoutResetCallback.aidl \
+  frameworks/base/core/java/android/hardware/fingerprint/Fingerprint.aidl
+
+frameworks/base/core/java/android/hardware/fingerprint/IFingerprintService.aidl :
+frameworks/base/core/java/android/os/Bundle.aidl :
+frameworks/base/core/java/android/hardware/fingerprint/IFingerprintClientActiveCallback.aidl :
+frameworks/base/core/java/android/hardware/fingerprint/IFingerprintServiceReceiver.aidl :
+frameworks/base/core/java/android/hardware/fingerprint/IFingerprintServiceLockoutResetCallback.aidl :
+frameworks/base/core/java/android/hardware/fingerprint/Fingerprint.aidl :

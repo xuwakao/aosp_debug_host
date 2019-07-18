@@ -1,0 +1,4 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/packages/services/PacProcessor/com/android/net/IProxyService.java : \
+  frameworks/base/packages/services/PacProcessor/com/android/net/IProxyService.aidl
+
+frameworks/base/packages/services/PacProcessor/com/android/net/IProxyService.aidl :

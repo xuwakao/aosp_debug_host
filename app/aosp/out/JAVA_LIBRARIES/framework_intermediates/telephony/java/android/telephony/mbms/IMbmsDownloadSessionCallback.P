@@ -1,0 +1,6 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/telephony/java/android/telephony/mbms/IMbmsDownloadSessionCallback.java : \
+  frameworks/base/telephony/java/android/telephony/mbms/IMbmsDownloadSessionCallback.aidl \
+  frameworks/base/telephony/java/android/telephony/mbms/FileServiceInfo.aidl
+
+frameworks/base/telephony/java/android/telephony/mbms/IMbmsDownloadSessionCallback.aidl :
+frameworks/base/telephony/java/android/telephony/mbms/FileServiceInfo.aidl :

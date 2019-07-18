@@ -1,0 +1,6 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/core/java/android/printservice/recommendation/IRecommendationServiceCallbacks.java : \
+  frameworks/base/core/java/android/printservice/recommendation/IRecommendationServiceCallbacks.aidl \
+  frameworks/base/core/java/android/printservice/recommendation/RecommendationInfo.aidl
+
+frameworks/base/core/java/android/printservice/recommendation/IRecommendationServiceCallbacks.aidl :
+frameworks/base/core/java/android/printservice/recommendation/RecommendationInfo.aidl :

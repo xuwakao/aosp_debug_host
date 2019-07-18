@@ -1,0 +1,8 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/telephony/java/com/android/ims/internal/IImsRegistrationListener.java : \
+  frameworks/base/telephony/java/com/android/ims/internal/IImsRegistrationListener.aidl \
+  frameworks/base/telephony/java/com/android/ims/ImsReasonInfo.aidl \
+  frameworks/base/core/java/android/net/Uri.aidl
+
+frameworks/base/telephony/java/com/android/ims/internal/IImsRegistrationListener.aidl :
+frameworks/base/telephony/java/com/android/ims/ImsReasonInfo.aidl :
+frameworks/base/core/java/android/net/Uri.aidl :

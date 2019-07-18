@@ -1,0 +1,6 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/location/java/android/location/IGnssStatusProvider.java : \
+  frameworks/base/location/java/android/location/IGnssStatusProvider.aidl \
+  frameworks/base/location/java/android/location/IGnssStatusListener.aidl
+
+frameworks/base/location/java/android/location/IGnssStatusProvider.aidl :
+frameworks/base/location/java/android/location/IGnssStatusListener.aidl :

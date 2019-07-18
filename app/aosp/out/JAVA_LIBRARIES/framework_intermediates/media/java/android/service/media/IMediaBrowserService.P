@@ -1,0 +1,14 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/media/java/android/service/media/IMediaBrowserService.java : \
+  frameworks/base/media/java/android/service/media/IMediaBrowserService.aidl \
+  frameworks/base/core/java/android/content/res/Configuration.aidl \
+  frameworks/base/media/java/android/service/media/IMediaBrowserServiceCallbacks.aidl \
+  frameworks/base/core/java/android/net/Uri.aidl \
+  frameworks/base/core/java/android/os/Bundle.aidl \
+  frameworks/base/core/java/android/os/ResultReceiver.aidl
+
+frameworks/base/media/java/android/service/media/IMediaBrowserService.aidl :
+frameworks/base/core/java/android/content/res/Configuration.aidl :
+frameworks/base/media/java/android/service/media/IMediaBrowserServiceCallbacks.aidl :
+frameworks/base/core/java/android/net/Uri.aidl :
+frameworks/base/core/java/android/os/Bundle.aidl :
+frameworks/base/core/java/android/os/ResultReceiver.aidl :

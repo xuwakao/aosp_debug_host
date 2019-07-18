@@ -1,0 +1,8 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/core/java/android/service/notification/IConditionListener.java : \
+  frameworks/base/core/java/android/service/notification/IConditionListener.aidl \
+  frameworks/base/core/java/android/net/Uri.aidl \
+  frameworks/base/core/java/android/service/notification/Condition.aidl
+
+frameworks/base/core/java/android/service/notification/IConditionListener.aidl :
+frameworks/base/core/java/android/net/Uri.aidl :
+frameworks/base/core/java/android/service/notification/Condition.aidl :

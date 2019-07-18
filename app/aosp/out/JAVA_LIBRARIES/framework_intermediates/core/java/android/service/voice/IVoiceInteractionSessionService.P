@@ -1,0 +1,8 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/core/java/android/service/voice/IVoiceInteractionSessionService.java : \
+  frameworks/base/core/java/android/service/voice/IVoiceInteractionSessionService.aidl \
+  frameworks/base/core/java/android/os/Bundle.aidl \
+  frameworks/base/core/java/android/service/voice/IVoiceInteractionSession.aidl
+
+frameworks/base/core/java/android/service/voice/IVoiceInteractionSessionService.aidl :
+frameworks/base/core/java/android/os/Bundle.aidl :
+frameworks/base/core/java/android/service/voice/IVoiceInteractionSession.aidl :

@@ -1,0 +1,14 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/core/java/android/bluetooth/IBluetoothManager.java : \
+  frameworks/base/core/java/android/bluetooth/IBluetoothManager.aidl \
+  frameworks/base/core/java/android/bluetooth/IBluetooth.aidl \
+  frameworks/base/core/java/android/bluetooth/IBluetoothGatt.aidl \
+  frameworks/base/core/java/android/bluetooth/IBluetoothManagerCallback.aidl \
+  frameworks/base/core/java/android/bluetooth/IBluetoothProfileServiceConnection.aidl \
+  frameworks/base/core/java/android/bluetooth/IBluetoothStateChangeCallback.aidl
+
+frameworks/base/core/java/android/bluetooth/IBluetoothManager.aidl :
+frameworks/base/core/java/android/bluetooth/IBluetooth.aidl :
+frameworks/base/core/java/android/bluetooth/IBluetoothGatt.aidl :
+frameworks/base/core/java/android/bluetooth/IBluetoothManagerCallback.aidl :
+frameworks/base/core/java/android/bluetooth/IBluetoothProfileServiceConnection.aidl :
+frameworks/base/core/java/android/bluetooth/IBluetoothStateChangeCallback.aidl :

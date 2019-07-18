@@ -1,0 +1,4 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/dotdot/native/cmds/installd/binder/android/os/IInstalld.java : \
+  frameworks/base/../native/cmds/installd/binder/android/os/IInstalld.aidl
+
+frameworks/base/../native/cmds/installd/binder/android/os/IInstalld.aidl :

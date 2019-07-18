@@ -1,0 +1,4 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/core/java/android/os/IIncidentReportStatusListener.java : \
+  frameworks/base/core/java/android/os/IIncidentReportStatusListener.aidl
+
+frameworks/base/core/java/android/os/IIncidentReportStatusListener.aidl :

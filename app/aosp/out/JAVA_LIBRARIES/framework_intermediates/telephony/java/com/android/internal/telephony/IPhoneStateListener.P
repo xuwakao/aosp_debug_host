@@ -1,0 +1,20 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/telephony/java/com/android/internal/telephony/IPhoneStateListener.java : \
+  frameworks/base/telephony/java/com/android/internal/telephony/IPhoneStateListener.aidl \
+  frameworks/base/core/java/android/os/Bundle.aidl \
+  frameworks/base/telephony/java/android/telephony/ServiceState.aidl \
+  frameworks/base/telephony/java/android/telephony/SignalStrength.aidl \
+  frameworks/base/telephony/java/android/telephony/CellInfo.aidl \
+  frameworks/base/telephony/java/android/telephony/DataConnectionRealTimeInfo.aidl \
+  frameworks/base/telephony/java/android/telephony/PreciseCallState.aidl \
+  frameworks/base/telephony/java/android/telephony/PreciseDataConnectionState.aidl \
+  frameworks/base/telephony/java/android/telephony/VoLteServiceState.aidl
+
+frameworks/base/telephony/java/com/android/internal/telephony/IPhoneStateListener.aidl :
+frameworks/base/core/java/android/os/Bundle.aidl :
+frameworks/base/telephony/java/android/telephony/ServiceState.aidl :
+frameworks/base/telephony/java/android/telephony/SignalStrength.aidl :
+frameworks/base/telephony/java/android/telephony/CellInfo.aidl :
+frameworks/base/telephony/java/android/telephony/DataConnectionRealTimeInfo.aidl :
+frameworks/base/telephony/java/android/telephony/PreciseCallState.aidl :
+frameworks/base/telephony/java/android/telephony/PreciseDataConnectionState.aidl :
+frameworks/base/telephony/java/android/telephony/VoLteServiceState.aidl :

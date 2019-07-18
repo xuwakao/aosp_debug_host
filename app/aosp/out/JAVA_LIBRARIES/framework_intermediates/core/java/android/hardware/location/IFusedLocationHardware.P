@@ -1,0 +1,8 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/core/java/android/hardware/location/IFusedLocationHardware.java : \
+  frameworks/base/core/java/android/hardware/location/IFusedLocationHardware.aidl \
+  frameworks/base/core/java/android/hardware/location/IFusedLocationHardwareSink.aidl \
+  frameworks/base/location/java/android/location/FusedBatchOptions.aidl
+
+frameworks/base/core/java/android/hardware/location/IFusedLocationHardware.aidl :
+frameworks/base/core/java/android/hardware/location/IFusedLocationHardwareSink.aidl :
+frameworks/base/location/java/android/location/FusedBatchOptions.aidl :

@@ -1,0 +1,6 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/media/java/android/media/midi/IBluetoothMidiService.java : \
+  frameworks/base/media/java/android/media/midi/IBluetoothMidiService.aidl \
+  frameworks/base/core/java/android/bluetooth/BluetoothDevice.aidl
+
+frameworks/base/media/java/android/media/midi/IBluetoothMidiService.aidl :
+frameworks/base/core/java/android/bluetooth/BluetoothDevice.aidl :

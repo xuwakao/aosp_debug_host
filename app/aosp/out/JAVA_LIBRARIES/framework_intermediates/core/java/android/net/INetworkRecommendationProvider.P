@@ -1,0 +1,6 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/core/java/android/net/INetworkRecommendationProvider.java : \
+  frameworks/base/core/java/android/net/INetworkRecommendationProvider.aidl \
+  frameworks/base/core/java/android/net/NetworkKey.aidl
+
+frameworks/base/core/java/android/net/INetworkRecommendationProvider.aidl :
+frameworks/base/core/java/android/net/NetworkKey.aidl :

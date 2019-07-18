@@ -1,0 +1,8 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/core/java/android/hardware/radio/ITunerCallback.java : \
+  frameworks/base/core/java/android/hardware/radio/ITunerCallback.aidl \
+  frameworks/base/core/java/android/hardware/radio/RadioManager.aidl \
+  frameworks/base/core/java/android/hardware/radio/RadioMetadata.aidl
+
+frameworks/base/core/java/android/hardware/radio/ITunerCallback.aidl :
+frameworks/base/core/java/android/hardware/radio/RadioManager.aidl :
+frameworks/base/core/java/android/hardware/radio/RadioMetadata.aidl :

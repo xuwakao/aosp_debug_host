@@ -1,0 +1,8 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/core/java/android/service/autofill/IFillCallback.java : \
+  frameworks/base/core/java/android/service/autofill/IFillCallback.aidl \
+  frameworks/base/core/java/android/os/ICancellationSignal.aidl \
+  frameworks/base/core/java/android/service/autofill/FillResponse.aidl
+
+frameworks/base/core/java/android/service/autofill/IFillCallback.aidl :
+frameworks/base/core/java/android/os/ICancellationSignal.aidl :
+frameworks/base/core/java/android/service/autofill/FillResponse.aidl :

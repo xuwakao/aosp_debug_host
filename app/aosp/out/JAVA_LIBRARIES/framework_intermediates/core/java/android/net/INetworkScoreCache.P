@@ -1,0 +1,6 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/core/java/android/net/INetworkScoreCache.java : \
+  frameworks/base/core/java/android/net/INetworkScoreCache.aidl \
+  frameworks/base/core/java/android/net/ScoredNetwork.aidl
+
+frameworks/base/core/java/android/net/INetworkScoreCache.aidl :
+frameworks/base/core/java/android/net/ScoredNetwork.aidl :

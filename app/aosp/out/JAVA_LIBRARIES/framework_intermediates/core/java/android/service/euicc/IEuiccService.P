@@ -1,0 +1,28 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/core/java/android/service/euicc/IEuiccService.java : \
+  frameworks/base/core/java/android/service/euicc/IEuiccService.aidl \
+  frameworks/base/core/java/android/service/euicc/IDeleteSubscriptionCallback.aidl \
+  frameworks/base/core/java/android/service/euicc/IDownloadSubscriptionCallback.aidl \
+  frameworks/base/core/java/android/service/euicc/IEraseSubscriptionsCallback.aidl \
+  frameworks/base/core/java/android/service/euicc/IGetDefaultDownloadableSubscriptionListCallback.aidl \
+  frameworks/base/core/java/android/service/euicc/IGetDownloadableSubscriptionMetadataCallback.aidl \
+  frameworks/base/core/java/android/service/euicc/IGetEidCallback.aidl \
+  frameworks/base/core/java/android/service/euicc/IGetEuiccInfoCallback.aidl \
+  frameworks/base/core/java/android/service/euicc/IGetEuiccProfileInfoListCallback.aidl \
+  frameworks/base/core/java/android/service/euicc/IRetainSubscriptionsForFactoryResetCallback.aidl \
+  frameworks/base/core/java/android/service/euicc/ISwitchToSubscriptionCallback.aidl \
+  frameworks/base/core/java/android/service/euicc/IUpdateSubscriptionNicknameCallback.aidl \
+  frameworks/base/telephony/java/android/telephony/euicc/DownloadableSubscription.aidl
+
+frameworks/base/core/java/android/service/euicc/IEuiccService.aidl :
+frameworks/base/core/java/android/service/euicc/IDeleteSubscriptionCallback.aidl :
+frameworks/base/core/java/android/service/euicc/IDownloadSubscriptionCallback.aidl :
+frameworks/base/core/java/android/service/euicc/IEraseSubscriptionsCallback.aidl :
+frameworks/base/core/java/android/service/euicc/IGetDefaultDownloadableSubscriptionListCallback.aidl :
+frameworks/base/core/java/android/service/euicc/IGetDownloadableSubscriptionMetadataCallback.aidl :
+frameworks/base/core/java/android/service/euicc/IGetEidCallback.aidl :
+frameworks/base/core/java/android/service/euicc/IGetEuiccInfoCallback.aidl :
+frameworks/base/core/java/android/service/euicc/IGetEuiccProfileInfoListCallback.aidl :
+frameworks/base/core/java/android/service/euicc/IRetainSubscriptionsForFactoryResetCallback.aidl :
+frameworks/base/core/java/android/service/euicc/ISwitchToSubscriptionCallback.aidl :
+frameworks/base/core/java/android/service/euicc/IUpdateSubscriptionNicknameCallback.aidl :
+frameworks/base/telephony/java/android/telephony/euicc/DownloadableSubscription.aidl :

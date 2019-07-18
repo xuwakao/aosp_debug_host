@@ -1,0 +1,4 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/core/java/android/service/euicc/IDeleteSubscriptionCallback.java : \
+  frameworks/base/core/java/android/service/euicc/IDeleteSubscriptionCallback.aidl
+
+frameworks/base/core/java/android/service/euicc/IDeleteSubscriptionCallback.aidl :

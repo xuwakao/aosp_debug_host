@@ -1,0 +1,6 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/core/java/android/bluetooth/le/IScannerCallback.java : \
+  frameworks/base/core/java/android/bluetooth/le/IScannerCallback.aidl \
+  frameworks/base/core/java/android/bluetooth/le/ScanResult.aidl
+
+frameworks/base/core/java/android/bluetooth/le/IScannerCallback.aidl :
+frameworks/base/core/java/android/bluetooth/le/ScanResult.aidl :

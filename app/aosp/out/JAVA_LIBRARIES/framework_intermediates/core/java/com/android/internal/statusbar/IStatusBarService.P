@@ -1,0 +1,20 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/core/java/com/android/internal/statusbar/IStatusBarService.java : \
+  frameworks/base/core/java/com/android/internal/statusbar/IStatusBarService.aidl \
+  frameworks/base/core/java/android/content/ComponentName.aidl \
+  frameworks/base/graphics/java/android/graphics/Rect.aidl \
+  frameworks/base/core/java/android/os/Bundle.aidl \
+  frameworks/base/core/java/android/service/notification/StatusBarNotification.aidl \
+  frameworks/base/core/java/com/android/internal/statusbar/IStatusBar.aidl \
+  frameworks/base/core/java/com/android/internal/statusbar/StatusBarIcon.aidl \
+  frameworks/base/core/java/com/android/internal/statusbar/StatusBarIconList.aidl \
+  frameworks/base/core/java/com/android/internal/statusbar/NotificationVisibility.aidl
+
+frameworks/base/core/java/com/android/internal/statusbar/IStatusBarService.aidl :
+frameworks/base/core/java/android/content/ComponentName.aidl :
+frameworks/base/graphics/java/android/graphics/Rect.aidl :
+frameworks/base/core/java/android/os/Bundle.aidl :
+frameworks/base/core/java/android/service/notification/StatusBarNotification.aidl :
+frameworks/base/core/java/com/android/internal/statusbar/IStatusBar.aidl :
+frameworks/base/core/java/com/android/internal/statusbar/StatusBarIcon.aidl :
+frameworks/base/core/java/com/android/internal/statusbar/StatusBarIconList.aidl :
+frameworks/base/core/java/com/android/internal/statusbar/NotificationVisibility.aidl :

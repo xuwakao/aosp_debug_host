@@ -1,0 +1,4 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/core/java/android/app/trust/ITrustListener.java : \
+  frameworks/base/core/java/android/app/trust/ITrustListener.aidl
+
+frameworks/base/core/java/android/app/trust/ITrustListener.aidl :

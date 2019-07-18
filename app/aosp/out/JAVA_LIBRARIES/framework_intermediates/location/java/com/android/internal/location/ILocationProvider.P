@@ -1,0 +1,16 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/location/java/com/android/internal/location/ILocationProvider.java : \
+  frameworks/base/location/java/com/android/internal/location/ILocationProvider.aidl \
+  frameworks/base/location/java/android/location/Location.aidl \
+  frameworks/base/core/java/android/net/NetworkInfo.aidl \
+  frameworks/base/core/java/android/os/Bundle.aidl \
+  frameworks/base/core/java/android/os/WorkSource.aidl \
+  frameworks/base/location/java/com/android/internal/location/ProviderProperties.aidl \
+  frameworks/base/location/java/com/android/internal/location/ProviderRequest.aidl
+
+frameworks/base/location/java/com/android/internal/location/ILocationProvider.aidl :
+frameworks/base/location/java/android/location/Location.aidl :
+frameworks/base/core/java/android/net/NetworkInfo.aidl :
+frameworks/base/core/java/android/os/Bundle.aidl :
+frameworks/base/core/java/android/os/WorkSource.aidl :
+frameworks/base/location/java/com/android/internal/location/ProviderProperties.aidl :
+frameworks/base/location/java/com/android/internal/location/ProviderRequest.aidl :

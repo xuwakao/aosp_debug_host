@@ -1,0 +1,6 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/core/java/android/service/gatekeeper/IGateKeeperService.java : \
+  frameworks/base/core/java/android/service/gatekeeper/IGateKeeperService.aidl \
+  frameworks/base/core/java/android/service/gatekeeper/GateKeeperResponse.aidl
+
+frameworks/base/core/java/android/service/gatekeeper/IGateKeeperService.aidl :
+frameworks/base/core/java/android/service/gatekeeper/GateKeeperResponse.aidl :

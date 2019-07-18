@@ -1,0 +1,14 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/telephony/java/com/android/ims/internal/IImsCallSession.java : \
+  frameworks/base/telephony/java/com/android/ims/internal/IImsCallSession.aidl \
+  frameworks/base/core/java/android/os/Message.aidl \
+  frameworks/base/telephony/java/com/android/ims/ImsCallProfile.aidl \
+  frameworks/base/telephony/java/com/android/ims/ImsStreamMediaProfile.aidl \
+  frameworks/base/telephony/java/com/android/ims/internal/IImsCallSessionListener.aidl \
+  frameworks/base/telephony/java/com/android/ims/internal/IImsVideoCallProvider.aidl
+
+frameworks/base/telephony/java/com/android/ims/internal/IImsCallSession.aidl :
+frameworks/base/core/java/android/os/Message.aidl :
+frameworks/base/telephony/java/com/android/ims/ImsCallProfile.aidl :
+frameworks/base/telephony/java/com/android/ims/ImsStreamMediaProfile.aidl :
+frameworks/base/telephony/java/com/android/ims/internal/IImsCallSessionListener.aidl :
+frameworks/base/telephony/java/com/android/ims/internal/IImsVideoCallProvider.aidl :

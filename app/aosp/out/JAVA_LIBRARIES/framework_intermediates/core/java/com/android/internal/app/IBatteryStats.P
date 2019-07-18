@@ -1,0 +1,22 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/core/java/com/android/internal/app/IBatteryStats.java : \
+  frameworks/base/core/java/com/android/internal/app/IBatteryStats.aidl \
+  frameworks/base/core/java/com/android/internal/os/BatteryStatsImpl.aidl \
+  frameworks/base/core/java/android/bluetooth/BluetoothActivityEnergyInfo.aidl \
+  frameworks/base/wifi/java/android/net/wifi/WifiActivityEnergyInfo.aidl \
+  frameworks/base/core/java/android/os/ParcelFileDescriptor.aidl \
+  frameworks/base/core/java/android/os/WorkSource.aidl \
+  frameworks/base/core/java/android/os/health/HealthStatsParceler.aidl \
+  frameworks/base/telephony/java/android/telephony/DataConnectionRealTimeInfo.aidl \
+  frameworks/base/telephony/java/android/telephony/ModemActivityInfo.aidl \
+  frameworks/base/telephony/java/android/telephony/SignalStrength.aidl
+
+frameworks/base/core/java/com/android/internal/app/IBatteryStats.aidl :
+frameworks/base/core/java/com/android/internal/os/BatteryStatsImpl.aidl :
+frameworks/base/core/java/android/bluetooth/BluetoothActivityEnergyInfo.aidl :
+frameworks/base/wifi/java/android/net/wifi/WifiActivityEnergyInfo.aidl :
+frameworks/base/core/java/android/os/ParcelFileDescriptor.aidl :
+frameworks/base/core/java/android/os/WorkSource.aidl :
+frameworks/base/core/java/android/os/health/HealthStatsParceler.aidl :
+frameworks/base/telephony/java/android/telephony/DataConnectionRealTimeInfo.aidl :
+frameworks/base/telephony/java/android/telephony/ModemActivityInfo.aidl :
+frameworks/base/telephony/java/android/telephony/SignalStrength.aidl :

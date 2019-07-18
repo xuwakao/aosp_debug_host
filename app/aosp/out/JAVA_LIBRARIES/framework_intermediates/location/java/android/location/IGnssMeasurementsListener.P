@@ -1,0 +1,6 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/location/java/android/location/IGnssMeasurementsListener.java : \
+  frameworks/base/location/java/android/location/IGnssMeasurementsListener.aidl \
+  frameworks/base/location/java/android/location/GnssMeasurementsEvent.aidl
+
+frameworks/base/location/java/android/location/IGnssMeasurementsListener.aidl :
+frameworks/base/location/java/android/location/GnssMeasurementsEvent.aidl :

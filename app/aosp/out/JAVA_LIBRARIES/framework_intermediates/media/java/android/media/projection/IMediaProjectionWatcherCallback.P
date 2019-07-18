@@ -1,0 +1,6 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/media/java/android/media/projection/IMediaProjectionWatcherCallback.java : \
+  frameworks/base/media/java/android/media/projection/IMediaProjectionWatcherCallback.aidl \
+  frameworks/base/media/java/android/media/projection/MediaProjectionInfo.aidl
+
+frameworks/base/media/java/android/media/projection/IMediaProjectionWatcherCallback.aidl :
+frameworks/base/media/java/android/media/projection/MediaProjectionInfo.aidl :

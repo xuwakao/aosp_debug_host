@@ -1,0 +1,4 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/core/java/android/app/admin/IDeviceAdminService.java : \
+  frameworks/base/core/java/android/app/admin/IDeviceAdminService.aidl
+
+frameworks/base/core/java/android/app/admin/IDeviceAdminService.aidl :

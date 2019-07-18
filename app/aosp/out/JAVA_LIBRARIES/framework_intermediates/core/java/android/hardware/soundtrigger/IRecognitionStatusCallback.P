@@ -1,0 +1,6 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/core/java/android/hardware/soundtrigger/IRecognitionStatusCallback.java : \
+  frameworks/base/core/java/android/hardware/soundtrigger/IRecognitionStatusCallback.aidl \
+  frameworks/base/core/java/android/hardware/soundtrigger/SoundTrigger.aidl
+
+frameworks/base/core/java/android/hardware/soundtrigger/IRecognitionStatusCallback.aidl :
+frameworks/base/core/java/android/hardware/soundtrigger/SoundTrigger.aidl :

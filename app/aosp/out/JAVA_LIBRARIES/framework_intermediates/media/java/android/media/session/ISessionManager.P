@@ -1,0 +1,24 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/media/java/android/media/session/ISessionManager.java : \
+  frameworks/base/media/java/android/media/session/ISessionManager.aidl \
+  frameworks/base/core/java/android/content/ComponentName.aidl \
+  frameworks/base/media/java/android/media/IRemoteVolumeController.aidl \
+  frameworks/base/media/java/android/media/session/IActiveSessionsListener.aidl \
+  frameworks/base/media/java/android/media/session/ICallback.aidl \
+  frameworks/base/media/java/android/media/session/IOnMediaKeyListener.aidl \
+  frameworks/base/media/java/android/media/session/IOnVolumeKeyLongPressListener.aidl \
+  frameworks/base/media/java/android/media/session/ISession.aidl \
+  frameworks/base/media/java/android/media/session/ISessionCallback.aidl \
+  frameworks/base/core/java/android/os/Bundle.aidl \
+  frameworks/base/core/java/android/view/KeyEvent.aidl
+
+frameworks/base/media/java/android/media/session/ISessionManager.aidl :
+frameworks/base/core/java/android/content/ComponentName.aidl :
+frameworks/base/media/java/android/media/IRemoteVolumeController.aidl :
+frameworks/base/media/java/android/media/session/IActiveSessionsListener.aidl :
+frameworks/base/media/java/android/media/session/ICallback.aidl :
+frameworks/base/media/java/android/media/session/IOnMediaKeyListener.aidl :
+frameworks/base/media/java/android/media/session/IOnVolumeKeyLongPressListener.aidl :
+frameworks/base/media/java/android/media/session/ISession.aidl :
+frameworks/base/media/java/android/media/session/ISessionCallback.aidl :
+frameworks/base/core/java/android/os/Bundle.aidl :
+frameworks/base/core/java/android/view/KeyEvent.aidl :

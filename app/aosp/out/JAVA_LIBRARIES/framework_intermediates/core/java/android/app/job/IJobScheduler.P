@@ -1,0 +1,8 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/core/java/android/app/job/IJobScheduler.java : \
+  frameworks/base/core/java/android/app/job/IJobScheduler.aidl \
+  frameworks/base/core/java/android/app/job/JobInfo.aidl \
+  frameworks/base/core/java/android/app/job/JobWorkItem.aidl
+
+frameworks/base/core/java/android/app/job/IJobScheduler.aidl :
+frameworks/base/core/java/android/app/job/JobInfo.aidl :
+frameworks/base/core/java/android/app/job/JobWorkItem.aidl :

@@ -1,0 +1,20 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/core/java/android/content/pm/IPackageInstaller.java : \
+  frameworks/base/core/java/android/content/pm/IPackageInstaller.aidl \
+  frameworks/base/core/java/android/content/pm/IPackageDeleteObserver2.aidl \
+  frameworks/base/core/java/android/content/pm/IPackageInstallerCallback.aidl \
+  frameworks/base/core/java/android/content/pm/IPackageInstallerSession.aidl \
+  frameworks/base/core/java/android/content/pm/PackageInstaller.aidl \
+  frameworks/base/core/java/android/content/pm/ParceledListSlice.aidl \
+  frameworks/base/core/java/android/content/pm/VersionedPackage.aidl \
+  frameworks/base/core/java/android/content/IntentSender.aidl \
+  frameworks/base/graphics/java/android/graphics/Bitmap.aidl
+
+frameworks/base/core/java/android/content/pm/IPackageInstaller.aidl :
+frameworks/base/core/java/android/content/pm/IPackageDeleteObserver2.aidl :
+frameworks/base/core/java/android/content/pm/IPackageInstallerCallback.aidl :
+frameworks/base/core/java/android/content/pm/IPackageInstallerSession.aidl :
+frameworks/base/core/java/android/content/pm/PackageInstaller.aidl :
+frameworks/base/core/java/android/content/pm/ParceledListSlice.aidl :
+frameworks/base/core/java/android/content/pm/VersionedPackage.aidl :
+frameworks/base/core/java/android/content/IntentSender.aidl :
+frameworks/base/graphics/java/android/graphics/Bitmap.aidl :

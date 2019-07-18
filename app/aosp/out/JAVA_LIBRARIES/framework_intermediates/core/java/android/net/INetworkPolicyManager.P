@@ -1,0 +1,16 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/core/java/android/net/INetworkPolicyManager.java : \
+  frameworks/base/core/java/android/net/INetworkPolicyManager.aidl \
+  frameworks/base/core/java/android/net/INetworkPolicyListener.aidl \
+  frameworks/base/core/java/android/net/NetworkPolicy.aidl \
+  frameworks/base/core/java/android/net/NetworkQuotaInfo.aidl \
+  frameworks/base/core/java/android/net/NetworkState.aidl \
+  frameworks/base/core/java/android/net/NetworkTemplate.aidl \
+  frameworks/base/telephony/java/android/telephony/SubscriptionPlan.aidl
+
+frameworks/base/core/java/android/net/INetworkPolicyManager.aidl :
+frameworks/base/core/java/android/net/INetworkPolicyListener.aidl :
+frameworks/base/core/java/android/net/NetworkPolicy.aidl :
+frameworks/base/core/java/android/net/NetworkQuotaInfo.aidl :
+frameworks/base/core/java/android/net/NetworkState.aidl :
+frameworks/base/core/java/android/net/NetworkTemplate.aidl :
+frameworks/base/telephony/java/android/telephony/SubscriptionPlan.aidl :

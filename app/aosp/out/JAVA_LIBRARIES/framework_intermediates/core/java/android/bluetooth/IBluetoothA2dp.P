@@ -1,0 +1,10 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/core/java/android/bluetooth/IBluetoothA2dp.java : \
+  frameworks/base/core/java/android/bluetooth/IBluetoothA2dp.aidl \
+  frameworks/base/core/java/android/bluetooth/BluetoothCodecConfig.aidl \
+  frameworks/base/core/java/android/bluetooth/BluetoothCodecStatus.aidl \
+  frameworks/base/core/java/android/bluetooth/BluetoothDevice.aidl
+
+frameworks/base/core/java/android/bluetooth/IBluetoothA2dp.aidl :
+frameworks/base/core/java/android/bluetooth/BluetoothCodecConfig.aidl :
+frameworks/base/core/java/android/bluetooth/BluetoothCodecStatus.aidl :
+frameworks/base/core/java/android/bluetooth/BluetoothDevice.aidl :

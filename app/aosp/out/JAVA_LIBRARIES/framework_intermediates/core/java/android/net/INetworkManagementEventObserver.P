@@ -1,0 +1,8 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/core/java/android/net/INetworkManagementEventObserver.java : \
+  frameworks/base/core/java/android/net/INetworkManagementEventObserver.aidl \
+  frameworks/base/core/java/android/net/LinkAddress.aidl \
+  frameworks/base/core/java/android/net/RouteInfo.aidl
+
+frameworks/base/core/java/android/net/INetworkManagementEventObserver.aidl :
+frameworks/base/core/java/android/net/LinkAddress.aidl :
+frameworks/base/core/java/android/net/RouteInfo.aidl :

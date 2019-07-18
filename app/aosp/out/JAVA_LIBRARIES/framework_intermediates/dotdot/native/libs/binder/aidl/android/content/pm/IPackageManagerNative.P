@@ -1,0 +1,4 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/dotdot/native/libs/binder/aidl/android/content/pm/IPackageManagerNative.java : \
+  frameworks/base/../native/libs/binder/aidl/android/content/pm/IPackageManagerNative.aidl
+
+frameworks/base/../native/libs/binder/aidl/android/content/pm/IPackageManagerNative.aidl :

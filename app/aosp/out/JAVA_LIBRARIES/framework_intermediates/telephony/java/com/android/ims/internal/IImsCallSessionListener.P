@@ -1,0 +1,16 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/telephony/java/com/android/ims/internal/IImsCallSessionListener.java : \
+  frameworks/base/telephony/java/com/android/ims/internal/IImsCallSessionListener.aidl \
+  frameworks/base/telephony/java/com/android/ims/ImsStreamMediaProfile.aidl \
+  frameworks/base/telephony/java/com/android/ims/ImsCallProfile.aidl \
+  frameworks/base/telephony/java/com/android/ims/ImsReasonInfo.aidl \
+  frameworks/base/telephony/java/com/android/ims/ImsConferenceState.aidl \
+  frameworks/base/telephony/java/com/android/ims/internal/IImsCallSession.aidl \
+  frameworks/base/telephony/java/com/android/ims/ImsSuppServiceNotification.aidl
+
+frameworks/base/telephony/java/com/android/ims/internal/IImsCallSessionListener.aidl :
+frameworks/base/telephony/java/com/android/ims/ImsStreamMediaProfile.aidl :
+frameworks/base/telephony/java/com/android/ims/ImsCallProfile.aidl :
+frameworks/base/telephony/java/com/android/ims/ImsReasonInfo.aidl :
+frameworks/base/telephony/java/com/android/ims/ImsConferenceState.aidl :
+frameworks/base/telephony/java/com/android/ims/internal/IImsCallSession.aidl :
+frameworks/base/telephony/java/com/android/ims/ImsSuppServiceNotification.aidl :

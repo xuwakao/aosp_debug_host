@@ -1,0 +1,4 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/media/java/android/media/IAudioFocusDispatcher.java : \
+  frameworks/base/media/java/android/media/IAudioFocusDispatcher.aidl
+
+frameworks/base/media/java/android/media/IAudioFocusDispatcher.aidl :

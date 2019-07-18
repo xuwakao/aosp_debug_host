@@ -1,0 +1,6 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/telephony/java/com/android/ims/internal/IImsEcbm.java : \
+  frameworks/base/telephony/java/com/android/ims/internal/IImsEcbm.aidl \
+  frameworks/base/telephony/java/com/android/ims/internal/IImsEcbmListener.aidl
+
+frameworks/base/telephony/java/com/android/ims/internal/IImsEcbm.aidl :
+frameworks/base/telephony/java/com/android/ims/internal/IImsEcbmListener.aidl :

@@ -1,0 +1,8 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/wifi/java/android/net/wifi/aware/IWifiAwareEventCallback.java : \
+  frameworks/base/wifi/java/android/net/wifi/aware/IWifiAwareEventCallback.aidl \
+  frameworks/base/wifi/java/android/net/wifi/aware/ConfigRequest.aidl \
+  frameworks/base/wifi/java/android/net/wifi/RttManager.aidl
+
+frameworks/base/wifi/java/android/net/wifi/aware/IWifiAwareEventCallback.aidl :
+frameworks/base/wifi/java/android/net/wifi/aware/ConfigRequest.aidl :
+frameworks/base/wifi/java/android/net/wifi/RttManager.aidl :

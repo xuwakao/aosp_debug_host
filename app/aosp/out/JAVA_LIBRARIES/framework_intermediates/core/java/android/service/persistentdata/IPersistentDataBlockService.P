@@ -1,0 +1,6 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/core/java/android/service/persistentdata/IPersistentDataBlockService.java : \
+  frameworks/base/core/java/android/service/persistentdata/IPersistentDataBlockService.aidl \
+  frameworks/base/core/java/android/os/ParcelFileDescriptor.aidl
+
+frameworks/base/core/java/android/service/persistentdata/IPersistentDataBlockService.aidl :
+frameworks/base/core/java/android/os/ParcelFileDescriptor.aidl :

@@ -1,0 +1,6 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/media/java/android/media/midi/IMidiDeviceOpenCallback.java : \
+  frameworks/base/media/java/android/media/midi/IMidiDeviceOpenCallback.aidl \
+  frameworks/base/media/java/android/media/midi/IMidiDeviceServer.aidl
+
+frameworks/base/media/java/android/media/midi/IMidiDeviceOpenCallback.aidl :
+frameworks/base/media/java/android/media/midi/IMidiDeviceServer.aidl :

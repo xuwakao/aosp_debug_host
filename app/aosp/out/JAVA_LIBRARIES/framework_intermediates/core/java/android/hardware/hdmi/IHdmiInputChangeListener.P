@@ -1,0 +1,6 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/core/java/android/hardware/hdmi/IHdmiInputChangeListener.java : \
+  frameworks/base/core/java/android/hardware/hdmi/IHdmiInputChangeListener.aidl \
+  frameworks/base/core/java/android/hardware/hdmi/HdmiDeviceInfo.aidl
+
+frameworks/base/core/java/android/hardware/hdmi/IHdmiInputChangeListener.aidl :
+frameworks/base/core/java/android/hardware/hdmi/HdmiDeviceInfo.aidl :

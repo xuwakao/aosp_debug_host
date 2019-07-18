@@ -1,0 +1,4 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/core/java/android/net/INetdEventCallback.java : \
+  frameworks/base/core/java/android/net/INetdEventCallback.aidl
+
+frameworks/base/core/java/android/net/INetdEventCallback.aidl :

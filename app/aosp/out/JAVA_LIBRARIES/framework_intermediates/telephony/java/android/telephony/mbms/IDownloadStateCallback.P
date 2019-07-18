@@ -1,0 +1,8 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/telephony/java/android/telephony/mbms/IDownloadStateCallback.java : \
+  frameworks/base/telephony/java/android/telephony/mbms/IDownloadStateCallback.aidl \
+  frameworks/base/telephony/java/android/telephony/mbms/DownloadRequest.aidl \
+  frameworks/base/telephony/java/android/telephony/mbms/FileInfo.aidl
+
+frameworks/base/telephony/java/android/telephony/mbms/IDownloadStateCallback.aidl :
+frameworks/base/telephony/java/android/telephony/mbms/DownloadRequest.aidl :
+frameworks/base/telephony/java/android/telephony/mbms/FileInfo.aidl :

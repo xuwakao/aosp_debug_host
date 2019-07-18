@@ -1,0 +1,6 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/media/java/android/media/audiopolicy/IAudioPolicyCallback.java : \
+  frameworks/base/media/java/android/media/audiopolicy/IAudioPolicyCallback.aidl \
+  frameworks/base/media/java/android/media/AudioFocusInfo.aidl
+
+frameworks/base/media/java/android/media/audiopolicy/IAudioPolicyCallback.aidl :
+frameworks/base/media/java/android/media/AudioFocusInfo.aidl :

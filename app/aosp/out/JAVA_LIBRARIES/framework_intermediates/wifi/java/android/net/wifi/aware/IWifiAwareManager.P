@@ -1,0 +1,20 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/wifi/java/android/net/wifi/aware/IWifiAwareManager.java : \
+  frameworks/base/wifi/java/android/net/wifi/aware/IWifiAwareManager.aidl \
+  frameworks/base/core/java/android/app/PendingIntent.aidl \
+  frameworks/base/wifi/java/android/net/wifi/aware/ConfigRequest.aidl \
+  frameworks/base/wifi/java/android/net/wifi/aware/IWifiAwareDiscoverySessionCallback.aidl \
+  frameworks/base/wifi/java/android/net/wifi/aware/IWifiAwareEventCallback.aidl \
+  frameworks/base/wifi/java/android/net/wifi/aware/PublishConfig.aidl \
+  frameworks/base/wifi/java/android/net/wifi/aware/SubscribeConfig.aidl \
+  frameworks/base/wifi/java/android/net/wifi/aware/Characteristics.aidl \
+  frameworks/base/wifi/java/android/net/wifi/RttManager.aidl
+
+frameworks/base/wifi/java/android/net/wifi/aware/IWifiAwareManager.aidl :
+frameworks/base/core/java/android/app/PendingIntent.aidl :
+frameworks/base/wifi/java/android/net/wifi/aware/ConfigRequest.aidl :
+frameworks/base/wifi/java/android/net/wifi/aware/IWifiAwareDiscoverySessionCallback.aidl :
+frameworks/base/wifi/java/android/net/wifi/aware/IWifiAwareEventCallback.aidl :
+frameworks/base/wifi/java/android/net/wifi/aware/PublishConfig.aidl :
+frameworks/base/wifi/java/android/net/wifi/aware/SubscribeConfig.aidl :
+frameworks/base/wifi/java/android/net/wifi/aware/Characteristics.aidl :
+frameworks/base/wifi/java/android/net/wifi/RttManager.aidl :

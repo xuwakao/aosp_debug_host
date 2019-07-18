@@ -1,0 +1,10 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/core/java/android/os/IIncidentManager.java : \
+  frameworks/base/core/java/android/os/IIncidentManager.aidl \
+  frameworks/base/core/java/android/os/IIncidentReportCompletedListener.aidl \
+  frameworks/base/core/java/android/os/IIncidentReportStatusListener.aidl \
+  frameworks/base/core/java/android/os/IncidentReportArgs.aidl
+
+frameworks/base/core/java/android/os/IIncidentManager.aidl :
+frameworks/base/core/java/android/os/IIncidentReportCompletedListener.aidl :
+frameworks/base/core/java/android/os/IIncidentReportStatusListener.aidl :
+frameworks/base/core/java/android/os/IncidentReportArgs.aidl :

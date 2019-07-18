@@ -1,0 +1,6 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/media/java/android/media/IRemoteVolumeController.java : \
+  frameworks/base/media/java/android/media/IRemoteVolumeController.aidl \
+  frameworks/base/media/java/android/media/session/ISessionController.aidl
+
+frameworks/base/media/java/android/media/IRemoteVolumeController.aidl :
+frameworks/base/media/java/android/media/session/ISessionController.aidl :

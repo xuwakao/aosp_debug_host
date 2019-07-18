@@ -1,0 +1,8 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/core/java/android/os/IBatteryPropertiesRegistrar.java : \
+  frameworks/base/core/java/android/os/IBatteryPropertiesRegistrar.aidl \
+  frameworks/base/core/java/android/os/IBatteryPropertiesListener.aidl \
+  frameworks/base/core/java/android/os/BatteryProperty.aidl
+
+frameworks/base/core/java/android/os/IBatteryPropertiesRegistrar.aidl :
+frameworks/base/core/java/android/os/IBatteryPropertiesListener.aidl :
+frameworks/base/core/java/android/os/BatteryProperty.aidl :

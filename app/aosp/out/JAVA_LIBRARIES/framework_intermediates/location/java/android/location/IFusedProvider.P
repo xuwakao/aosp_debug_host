@@ -1,0 +1,6 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/location/java/android/location/IFusedProvider.java : \
+  frameworks/base/location/java/android/location/IFusedProvider.aidl \
+  frameworks/base/core/java/android/hardware/location/IFusedLocationHardware.aidl
+
+frameworks/base/location/java/android/location/IFusedProvider.aidl :
+frameworks/base/core/java/android/hardware/location/IFusedLocationHardware.aidl :

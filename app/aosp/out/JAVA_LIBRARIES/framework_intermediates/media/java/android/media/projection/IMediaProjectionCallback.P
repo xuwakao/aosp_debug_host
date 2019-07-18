@@ -1,0 +1,4 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/media/java/android/media/projection/IMediaProjectionCallback.java : \
+  frameworks/base/media/java/android/media/projection/IMediaProjectionCallback.aidl
+
+frameworks/base/media/java/android/media/projection/IMediaProjectionCallback.aidl :

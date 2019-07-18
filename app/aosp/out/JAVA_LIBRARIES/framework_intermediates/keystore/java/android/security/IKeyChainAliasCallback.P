@@ -1,0 +1,4 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/keystore/java/android/security/IKeyChainAliasCallback.java : \
+  frameworks/base/keystore/java/android/security/IKeyChainAliasCallback.aidl
+
+frameworks/base/keystore/java/android/security/IKeyChainAliasCallback.aidl :

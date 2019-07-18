@@ -1,0 +1,6 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/core/java/android/companion/IFindDeviceCallback.java : \
+  frameworks/base/core/java/android/companion/IFindDeviceCallback.aidl \
+  frameworks/base/core/java/android/app/PendingIntent.aidl
+
+frameworks/base/core/java/android/companion/IFindDeviceCallback.aidl :
+frameworks/base/core/java/android/app/PendingIntent.aidl :

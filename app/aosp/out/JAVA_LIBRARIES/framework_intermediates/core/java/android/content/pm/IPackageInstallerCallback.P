@@ -1,0 +1,4 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/core/java/android/content/pm/IPackageInstallerCallback.java : \
+  frameworks/base/core/java/android/content/pm/IPackageInstallerCallback.aidl
+
+frameworks/base/core/java/android/content/pm/IPackageInstallerCallback.aidl :

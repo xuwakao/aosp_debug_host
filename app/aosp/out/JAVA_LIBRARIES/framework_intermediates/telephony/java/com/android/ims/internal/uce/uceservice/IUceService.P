@@ -1,0 +1,18 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/telephony/java/com/android/ims/internal/uce/uceservice/IUceService.java : \
+  frameworks/base/telephony/java/com/android/ims/internal/uce/uceservice/IUceService.aidl \
+  frameworks/base/telephony/java/com/android/ims/internal/uce/uceservice/IUceListener.aidl \
+  frameworks/base/telephony/java/com/android/ims/internal/uce/presence/IPresenceService.aidl \
+  frameworks/base/telephony/java/com/android/ims/internal/uce/options/IOptionsListener.aidl \
+  frameworks/base/telephony/java/com/android/ims/internal/uce/presence/IPresenceListener.aidl \
+  frameworks/base/telephony/java/com/android/ims/internal/uce/options/IOptionsService.aidl \
+  frameworks/base/telephony/java/com/android/ims/internal/uce/common/UceLong.aidl \
+  frameworks/base/telephony/java/com/android/ims/internal/uce/common/StatusCode.aidl
+
+frameworks/base/telephony/java/com/android/ims/internal/uce/uceservice/IUceService.aidl :
+frameworks/base/telephony/java/com/android/ims/internal/uce/uceservice/IUceListener.aidl :
+frameworks/base/telephony/java/com/android/ims/internal/uce/presence/IPresenceService.aidl :
+frameworks/base/telephony/java/com/android/ims/internal/uce/options/IOptionsListener.aidl :
+frameworks/base/telephony/java/com/android/ims/internal/uce/presence/IPresenceListener.aidl :
+frameworks/base/telephony/java/com/android/ims/internal/uce/options/IOptionsService.aidl :
+frameworks/base/telephony/java/com/android/ims/internal/uce/common/UceLong.aidl :
+frameworks/base/telephony/java/com/android/ims/internal/uce/common/StatusCode.aidl :

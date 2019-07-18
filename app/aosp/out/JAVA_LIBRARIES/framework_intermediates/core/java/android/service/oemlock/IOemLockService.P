@@ -1,0 +1,4 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/core/java/android/service/oemlock/IOemLockService.java : \
+  frameworks/base/core/java/android/service/oemlock/IOemLockService.aidl
+
+frameworks/base/core/java/android/service/oemlock/IOemLockService.aidl :

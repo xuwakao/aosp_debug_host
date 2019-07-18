@@ -1,0 +1,6 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/core/java/android/view/IInputFilterHost.java : \
+  frameworks/base/core/java/android/view/IInputFilterHost.aidl \
+  frameworks/base/core/java/android/view/InputEvent.aidl
+
+frameworks/base/core/java/android/view/IInputFilterHost.aidl :
+frameworks/base/core/java/android/view/InputEvent.aidl :

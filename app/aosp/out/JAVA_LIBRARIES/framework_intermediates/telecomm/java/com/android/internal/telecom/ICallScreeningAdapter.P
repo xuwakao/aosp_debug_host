@@ -1,0 +1,4 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/telecomm/java/com/android/internal/telecom/ICallScreeningAdapter.java : \
+  frameworks/base/telecomm/java/com/android/internal/telecom/ICallScreeningAdapter.aidl
+
+frameworks/base/telecomm/java/com/android/internal/telecom/ICallScreeningAdapter.aidl :

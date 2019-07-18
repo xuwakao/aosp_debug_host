@@ -1,0 +1,8 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/core/java/android/os/IDeviceIdleController.java : \
+  frameworks/base/core/java/android/os/IDeviceIdleController.aidl \
+  frameworks/base/core/java/android/os/IMaintenanceActivityListener.aidl \
+  frameworks/base/core/java/android/os/UserHandle.aidl
+
+frameworks/base/core/java/android/os/IDeviceIdleController.aidl :
+frameworks/base/core/java/android/os/IMaintenanceActivityListener.aidl :
+frameworks/base/core/java/android/os/UserHandle.aidl :

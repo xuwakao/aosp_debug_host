@@ -1,0 +1,4 @@
+out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/core/java/android/os/IMaintenanceActivityListener.java : \
+  frameworks/base/core/java/android/os/IMaintenanceActivityListener.aidl
+
+frameworks/base/core/java/android/os/IMaintenanceActivityListener.aidl :
