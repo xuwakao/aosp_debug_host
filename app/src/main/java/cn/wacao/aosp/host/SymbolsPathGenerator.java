@@ -20,7 +20,7 @@ public class SymbolsPathGenerator {
             "micro_bench_static", "simpleperf32", "android.hardware.audio@2.0-service",
             "android.hardware.camera.provider@2.4-service",
             "android.hardware.cas@1.0-service", "android.hardware.drm@1.0-service",
-            "android.hardware.media.omx@1.0-service"};
+            "android.hardware.media.omx@1.0-service", "lib64.7z"};
 
     public static final String[] IGNORE_DIR = {"fake-libs\\", "fake-libs64\\",
             "symbols\\system\\framework\\arm\\", "symbols\\system\\lib\\",
