@@ -50,7 +50,9 @@ G:\opensource\Github\aosp_host\app\aosp\symbols\system\lib64\lib64.7z.
 1. Copy aosp source code to projects;
 2. Turn on \"Show alternative source switcher\" in android
    studio;(Ctrl+Shift+A then type \"Show alternative source switcher\")
-3. Set breakpoint and attach your custom sources in the upper-right
-   choice list in android studio.
+3. Add line \" \<sourceFolder url=\<your_source_code_path\>
+   isTestSource="false" \/\>\" as \<sourceFolder\> in app.iml file.
+4. Set breakpoint and attach your custom sources in the upper-right
+  choice list in android studio.
  
 
