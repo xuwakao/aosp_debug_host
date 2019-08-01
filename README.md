@@ -56,3 +56,9 @@ G:\opensource\Github\aosp_host\app\aosp\symbols\system\lib64\lib64.7z.
   choice list in android studio.
  
 
+# ScreenShots
+
+![Debug AOSP Native](https://raw.githubusercontent.com/xuwakao/wakao-assets/master/aosp/aosp_framework_native_debug.jpg)
+
+![Debug AOSP JAVA](https://raw.githubusercontent.com/xuwakao/wakao-assets/master/aosp/aosp_framework_java_debug.jpg)
+
